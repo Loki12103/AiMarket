@@ -1,0 +1,11 @@
+google-genai
+python-dotenv
+groq
+pandas
+nltk
+requests
+openpyxl
+beautifulsoup4
+transformers
+torch
+tqdm

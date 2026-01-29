@@ -1,0 +1,733 @@
+Unnamed: 0.1,Unnamed: 0,Text,Sentiment,Timestamp,User,Platform,Hashtags,Retweets,Likes,Country,Year,Month,Day,Hour
+0,0,enjoying beautiful day park,positive,20230115 123000,user123,twitter,nature park,15.0,30.0,usa,2023,1,15,12
+1,1,traffic terrible morning,negative,20230115 084500,commuterx,twitter,traffic morning,5.0,10.0,canada,2023,1,15,8
+2,2,finished amazing workout ðª,positive,20230115 154500,fitnessfan,instagram,fitness workout,20.0,40.0,usa,2023,1,15,15
+3,3,excited upcoming weekend getaway,positive,20230115 182000,adventurex,facebook,travel adventure,8.0,15.0,uk,2023,1,15,18
+4,4,trying new recipe dinner tonight,neutral,20230115 195500,chefcook,instagram,cooking food,12.0,25.0,australia,2023,1,15,19
+5,5,feeling grateful little things life,positive,20230116 091000,gratitudenow,twitter,gratitude positivevibes,25.0,50.0,india,2023,1,16,9
+6,6,rainy days call cozy blankets hot cocoa,positive,20230116 144500,rainydays,facebook,rainydays cozy,10.0,20.0,canada,2023,1,16,14
+7,7,new movie release mustwatch,positive,20230116 193000,moviebuff,instagram,movienight mustwatch,15.0,30.0,usa,2023,1,16,19
+8,8,political discussions heating timeline,negative,20230117 080000,debatetalk,twitter,politics debate,30.0,60.0,usa,2023,1,17,8
+9,9,missing summer vibes beach days,neutral,20230117 122000,beachlover,facebook,summer beachdays,18.0,35.0,australia,2023,1,17,12
+10,10,published new blog post check,positive,20230117 151500,bloggerx,instagram,blogging newpost,22.0,45.0,usa,2023,1,17,15
+11,11,feeling bit weather today,negative,20230118 103000,wellnesscheck,twitter,sickday health,7.0,15.0,canada,2023,1,18,10
+12,12,exploring citys hidden gems,positive,20230118 145000,urbanexplorer,facebook,cityexplore hiddengems,12.0,25.0,uk,2023,1,18,14
+13,13,new year new fitness goals ðª,positive,20230118 180000,fitjourney,instagram,newyear fitnessgoals,28.0,55.0,usa,2023,1,18,18
+14,14,technology changing way live,neutral,20230119 094500,techenthusiast,twitter,tech innovation,15.0,30.0,india,2023,1,19,9
+15,15,reflecting past looking ahead,positive,20230119 132000,reflections,facebook,reflection future,20.0,40.0,usa,2023,1,19,13
+16,16,adopted cute furry friend ð¾,positive,20230119 171000,petadopter,instagram,petadoption furryfriend,15.0,30.0,canada,2023,1,19,17
+17,17,latenight gaming session friends,positive,20230120 000500,gamerx,twitter,gaming latenight,18.0,35.0,uk,2023,1,20,0
+18,18,attending virtual conference ai,neutral,20230120 113000,techconference,facebook,ai techconference,25.0,50.0,usa,2023,1,20,11
+19,19,winter blues got feeling low,negative,20230120 151500,winterblues,instagram,winterblues mood,8.0,15.0,usa,2023,1,20,15
+20,20,sipping coffee enjoying good book,positive,20230121 084000,bookworm,twitter,reading coffeetime,22.0,45.0,india,2023,1,21,8
+21,21,exploring world virtual reality,positive,20230121 132000,vrexplorer,facebook,vr virtualreality,15.0,30.0,usa,2023,1,21,13
+22,22,productive day ticking todo list,positive,20230121 164500,productivitypro,instagram,productivity workfromhome,30.0,60.0,usa,2023,1,21,16
+23,23,finished challenging workout routine,positive,20230122 091500,fitnesswarrior,twitter,fitness challengeaccepted,20.0,40.0,uk,2023,1,22,9
+24,24,celebrating milestone work ð,positive,20230122 143000,careermilestone,facebook,career milestone,12.0,25.0,canada,2023,1,22,14
+25,25,sunday brunch friends,positive,20230122 120000,brunchbuddy,instagram,brunch friends,15.0,30.0,uk,2023,1,22,12
+27,28,learning new language personal growth,positive,20230123 162000,languagelearner,facebook,languagelearning personalgrowth,25.0,50.0,india,2023,1,23,16
+28,29,quiet evening good book,positive,20230123 194500,booklover,instagram,reading quiettime,15.0,30.0,australia,2023,1,23,19
+29,30,reflecting importance mental health,positive,20230124 113000,mentalhealthmatters,twitter,mentalhealth selfcare,22.0,45.0,usa,2023,1,24,11
+30,31,new painting progress ð,positive,20230124 150000,artistinaction,facebook,art paintinginprogress,12.0,25.0,canada,2023,1,24,15
+31,32,weekend road trip explore scenic views,positive,20230124 173000,roadtripper,instagram,roadtrip scenicviews,18.0,35.0,uk,2023,1,24,17
+32,33,enjoying cup tea watching sunset,positive,20230125 180000,sunsetwatcher,twitter,teatime sunset,15.0,30.0,india,2023,1,25,18
+33,34,coding new project enthusiasm,positive,20230125 131500,codeenthusiast,facebook,coding enthusiasm,30.0,60.0,usa,2023,1,25,13
+34,35,feeling inspired attending workshop,positive,20230126 094500,workshopattendee,instagram,inspiration workshop,25.0,50.0,usa,2023,1,26,9
+35,36,winter sports day local park,positive,20230126 142000,wintersports,twitter,wintersports fun,15.0,30.0,canada,2023,1,26,14
+36,37,quality time family weekend,positive,20230126 174000,familytime,facebook,familytime weekend,22.0,45.0,uk,2023,1,26,17
+37,38,attending live music concert tonight,positive,20230127 200000,musiclover,instagram,music concertnight,18.0,35.0,usa,2023,1,27,20
+38,39,practicing mindfulness meditation,positive,20230127 123000,mindfulmoments,twitter,mindfulness meditation,15.0,30.0,india,2023,1,27,12
+39,40,trying new dessert recipe,positive,20230127 161000,dessertexplorer,facebook,dessert cooking,12.0,25.0,canada,2023,1,27,16
+40,41,excited upcoming gaming tournament,positive,20230128 090000,gamingenthusiast,instagram,gaming tournament,30.0,60.0,usa,2023,1,28,9
+41,42,planning garden makeover spring,positive,20230128 144500,gardenplanner,twitter,gardening spring,25.0,50.0,usa,2023,1,28,14
+42,43,celebrating friends birthday tonight ð,positive,20230128 193000,birthdaybash,facebook,birthday celebration,15.0,30.0,uk,2023,1,28,19
+43,44,feeling accomplished productive day,positive,20230129 170000,productivitywin,instagram,accomplished success,22.0,45.0,india,2023,1,29,17
+44,45,cozy evening good movie,positive,20230129 202000,movienight,twitter,cozynight movietime,18.0,35.0,canada,2023,1,29,20
+45,46,exploring local art galleries weekend,positive,20230130 113000,artexplorer,facebook,art galleryexplore,15.0,30.0,usa,2023,1,30,11
+46,47,new book release favorite author,positive,20230130 154500,bookwormx,instagram,bookrelease favoriteauthor,12.0,25.0,uk,2023,1,30,15
+47,48,attending virtual reality meetup,positive,20230130 183000,vrmeetup,twitter,vrmeetup virtualreality,28.0,55.0,india,2023,1,30,18
+48,49,reflecting beauty nature,positive,20230131 104500,naturelover,facebook,nature reflection,15.0,30.0,australia,2023,1,31,10
+49,50,cooking special dinner loved ones,positive,20230131 190000,chefathome,instagram,cooking specialdinner,20.0,40.0,usa,2023,1,31,19
+50,51,feeling optimistic week ahead,positive,20230131 162000,optimisticmindset,twitter,optimism newweek,15.0,30.0,canada,2023,1,31,16
+51,52,starting new fitness challenge tomorrow ðª,positive,20230201 080000,fitnesschallenge,facebook,fitnesschallenge newbeginnings,22.0,45.0,uk,2023,2,1,8
+52,53,sunday bike ride scenic trails,positive,20230201 133000,bikeexplorer,instagram,bikeride scenictrails,18.0,35.0,usa,2023,2,1,13
+53,55,cant believe injustice happening society,anger,20230211 093000,socialjustice,twitter,injustice angry,20.0,40.0,canada,2023,2,11,9
+54,56,feeling sense fear watching thriller movie,fear,20230211 211500,thrillerfan,instagram,fear thrillermovie,15.0,30.0,usa,2023,2,11,21
+55,57,heartbroken hearing news natural disaster,sadness,20230212 144500,empathyfirst,facebook,sadness naturaldisaster,25.0,50.0,india,2023,2,12,14
+56,58,state worlds environment disgusting,disgust,20230212 182000,ecoawareness,twitter,disgust environment,18.0,35.0,uk,2023,2,12,18
+57,59,pure happiness celebrating loved ones achievement,happiness,20230213 100000,proudfriend,instagram,happiness celebration,30.0,60.0,usa,2023,2,13,10
+58,60,laughter best medicineâenjoying comedy show,joy,20230213 193000,comedyfan,facebook,joy comedyshow,22.0,45.0,canada,2023,2,13,19
+59,61,sharing love positive vibes everyone âï,love,20230214 083000,lovespreader,twitter,love spreadlove,15.0,30.0,australia,2023,2,14,8
+60,62,amusing incident brightened day,amusement,20230214 142000,amusedsoul,instagram,amusement funtimes,18.0,35.0,uk,2023,2,14,14
+61,63,enjoying quiet evening book tea,enjoyment,20230214 194500,bookloveragain,facebook,enjoyment booktime,25.0,50.0,canada,2023,2,14,19
+62,64,admiring beauty nature peaceful hike,admiration,20230215 113000,natureadmirer,twitter,admiration nature,20.0,40.0,usa,2023,2,15,11
+63,65,sending affectionate vibes followers,affection,20230215 160000,affectionsender,instagram,affection positivevibes,15.0,30.0,usa,2023,2,15,16
+64,66,experiencing awe breathtaking sunset,awe,20230215 203000,awestruck,facebook,awe breathtaking,22.0,45.0,australia,2023,2,15,20
+65,67,disappointed service local restaurant,disappointed,20230216 090000,foodiegonewrong,twitter,disappointed badservice,18.0,35.0,india,2023,2,16,9
+66,68,surprise gift friend made day,surprise,20230216 144500,happysurprise,instagram,surprise gift,25.0,50.0,usa,2023,2,16,14
+67,69,finding acceptance midst lifes challenges,acceptance,20230216 182000,acceptanceseeker,facebook,acceptance challenges,15.0,30.0,canada,2023,2,16,18
+68,70,overflowing adoration adorable pet ð¾,adoration,20230217 104500,petadorer,twitter,adoration petlove,22.0,45.0,uk,2023,2,17,10
+69,71,anticipating thrilling adventure coming weeks,anticipation,20230217 073000,adventureawaits,instagram,anticipation adventure,20.0,40.0,usa,2023,2,17,7
+70,72,bitter experience turned valuable lesson,bitter,20230217 150000,learnfrombitter,facebook,bitterlesson growth,18.0,35.0,usa,2023,2,17,15
+71,73,finding calmness midst busy day,calmness,20230218 093000,zenmaster,twitter,calmness peacefulmind,15.0,30.0,india,2023,2,18,9
+72,74,confusion clouds mind navigate decisions,confusion,20230218 142000,confusedmind,instagram,confusion decisionmaking,25.0,50.0,uk,2023,2,18,14
+73,75,excitement building upcoming vacation,excitement,20230218 184500,vacationdreamer,facebook,excitement travelplans,22.0,45.0,canada,2023,2,18,18
+74,76,kindness witnessed today restored faith humanity,kind,20230219 113000,kindnessprevails,twitter,kindness humanity,20.0,40.0,usa,2023,2,19,11
+75,77,pride achieving personal milestone,pride,20230219 160000,personalachiever,instagram,pride milestone,30.0,60.0,australia,2023,2,19,16
+76,78,moment shame standing injustice,shame,20230219 194500,reflectiveself,facebook,shame injustice,15.0,30.0,india,2023,2,19,19
+77,79,fuming anger heated argument,anger,20230220 093000,angrydebater,twitter,anger argument,20.0,40.0,canada,2023,2,20,9
+78,80,fear unknown keeping night,fear,20230220 211500,fearfuldreamer,instagram,fear unknown,15.0,30.0,usa,2023,2,20,21
+79,81,heartfelt sadness bidding farewell dear friend,sadness,20230221 144500,farewellheart,facebook,sadness farewell,25.0,50.0,india,2023,2,21,14
+80,82,state corruption society utterly disgusting,disgust,20230221 182000,anticorruption,twitter,disgust corruption,18.0,35.0,uk,2023,2,21,18
+81,83,overflowing happiness welcoming new family member,happiness,20230222 100000,newparentjoy,instagram,happiness newfamilymember,30.0,60.0,uk,2023,2,22,10
+82,84,laughter key joyâattending standup comedy show,joy,20230222 193000,standupfan,facebook,joy standupcomedy,22.0,45.0,canada,2023,2,22,19
+83,85,sending love followers beautiful day âï,love,20230223 083000,lovesender,twitter,love spreadlove,15.0,30.0,australia,2023,2,23,8
+84,86,amused antics petâits pure amusement,amusement,20230223 142000,petamuser,instagram,amusement petantics,18.0,35.0,uk,2023,2,23,14
+85,87,enjoying every moment tripâpure enjoyment,enjoyment,20230223 194500,travelexplorer,facebook,enjoyment travel,25.0,50.0,usa,2023,2,23,19
+86,88,admiring dedication volunteers local charity,admiration,20230224 113000,charityadmirer,twitter,admiration volunteers,20.0,40.0,usa,2023,2,24,11
+87,89,sending affectionate vibes friends family,affection,20230224 160000,familylover,instagram,affection familylove,15.0,30.0,usa,2023,2,24,16
+88,90,awestruck beauty night sky,awe,20230224 203000,stargazer,facebook,awe starrynight,22.0,45.0,australia,2023,2,24,20
+89,91,disappointed lack progress personal project,disappointed,20230225 090000,projectstruggle,twitter,disappointed project,18.0,35.0,india,2023,2,25,9
+90,92,surprise visit old friend brought tears joy,surprise,20230225 144500,joyfulreunion,instagram,surprise oldfriends,25.0,50.0,usa,2023,2,25,14
+91,93,embracing acceptance lifes ups downs,acceptance,20230225 182000,lifeacceptance,facebook,acceptance lifejourney,15.0,30.0,canada,2023,2,25,18
+92,94,overflowing adoration cute rescue puppy ð,adoration,20230226 104500,puppyadmirer,twitter,adoration puppylove,22.0,45.0,uk,2023,2,26,10
+93,95,anticipating release muchawaited movie,anticipation,20230226 073000,moviebuff2,instagram,anticipation movierelease,20.0,40.0,australia,2023,2,26,7
+94,96,bitter experience customer service department,bitter,20230226 150000,customerwoes,facebook,bitterexperience customerservice,18.0,35.0,usa,2023,2,26,15
+95,97,finding calmness amidst chaos daily life,calmness,20230227 093000,calmsoul,twitter,calmness innerpeace,15.0,30.0,india,2023,2,27,9
+96,98,confusion reigns try make sense recent events,confusion,20230227 142000,confusedmind2,instagram,confusion makingsense,25.0,50.0,uk,2023,2,27,14
+97,99,excitement building surprise birthday party,excitement,20230227 184500,birthdayexcite,facebook,excitement surpriseparty,22.0,45.0,canada,2023,2,27,18
+98,100,witnessed act kindness made day,kind,20230228 113000,kindnessobserver,twitter,kindness actsofkindness,20.0,40.0,usa,2023,2,28,11
+99,101,pride completing challenging fitness challenge,pride,20230228 160000,fitachiever,instagram,pride fitnesschallengecompleted,30.0,60.0,uk,2023,2,28,16
+100,102,moment shame speaking injustice,shame,20230228 194500,reflectiveself2,facebook,shame injustice,15.0,30.0,india,2023,2,28,19
+101,103,reflecting beauty diversity world,acceptance,20230301 104500,diversitylover,twitter,acceptance diversity,22.0,45.0,australia,2023,3,1,10
+102,104,excitement quiet evening good book,excitement,20230301 133000,bookwormjoy,instagram,excitement booktime,18.0,35.0,usa,2023,3,1,13
+103,105,feeling bitter unfairness workplace,bitter,20230301 174500,workplacewoes,twitter,bitter unfairness,15.0,30.0,canada,2023,3,1,17
+104,106,calmness prevails practice mindfulness,calmness,20230302 180000,mindfulme,facebook,calmness mindfulness,15.0,30.0,uk,2023,3,2,18
+105,107,confusion surrounds navigate lifes choices,confusion,20230302 131500,confusedmind3,instagram,confusion lifechoices,30.0,60.0,usa,2023,3,2,13
+106,108,excitement weekend road trip explore new places,excitement,20230302 164500,roadtripper2,twitter,excitement weekendadventure,25.0,50.0,india,2023,3,2,16
+107,109,kindness witnessed today restores faith humanity,kind,20230303 113000,kindnessprevails2,facebook,kindness humanityrestored,22.0,45.0,usa,2023,3,3,11
+108,110,pride accomplishing personal professional goals,pride,20230303 143000,goalachiever,instagram,pride accomplishments,12.0,25.0,canada,2023,3,3,14
+109,111,shame true values difficult situation,shame,20230303 120000,reflectiveself3,twitter,shame integrity,15.0,30.0,uk,2023,3,3,12
+110,112,revisiting old memories feeling sense elation,elation,20100515 153000,nostalgiafan,twitter,elation memories,20.0,40.0,canada,2010,5,15,15
+111,113,victory team brought euphoria city,euphoria,20210810 211500,sportsfanatic,instagram,euphoria victory,15.0,30.0,usa,2021,8,10,21
+112,114,embracing beauty nature moment contentment,contentment,20110620 144500,naturelover2,facebook,contentment nature,25.0,50.0,india,2011,6,20,14
+113,115,meditating serene lake finding inner peace,serenity,20220212 182000,zenmaster2,twitter,serenity meditation,18.0,35.0,uk,2022,2,12,18
+114,116,overflowing gratitude lifes blessings,gratitude,20121125 100000,thankfulheart,instagram,gratitude blessed,30.0,60.0,australia,2012,11,25,10
+115,117,hopeful brighter tomorrow despite challenges,hope,20130405 193000,optimisticsoul,facebook,hope optimism,22.0,45.0,usa,2013,4,5,19
+116,118,empowered make difference community,empowerment,20140914 083000,communityleader,twitter,empowerment community,15.0,30.0,uk,2014,9,14,8
+117,119,compassion action supporting local charity event,compassion,20150718 142000,charitysupporter,instagram,compassion charityevent,18.0,35.0,canada,2015,7,18,14
+118,120,moment tenderness connecting loved ones,tenderness,20160223 194500,lovingheart,facebook,tenderness familytime,25.0,50.0,uk,2016,2,23,19
+119,121,arousal excitement await special announcement,arousal,20171030 113000,excitementfan,twitter,arousal excitement,20.0,40.0,australia,2017,10,30,11
+120,122,enthusiastically diving new project,enthusiasm,20180615 160000,projectenthusiast,instagram,enthusiasm newproject,15.0,30.0,usa,2018,6,15,16
+121,123,feeling sense fulfillment reaching milestone,fulfillment,20190328 182000,milestoneachiever,facebook,fulfillment milestone,22.0,45.0,india,2019,3,28,18
+122,124,reverence beauty historic landmark,reverence,20191111 150000,historylover,twitter,reverence history,18.0,35.0,uk,2019,11,11,15
+123,125,elation surprise reunion old friends,elation,20200402 093000,joyfulreunion2,instagram,elation oldfriends,25.0,50.0,canada,2020,4,2,9
+124,126,euphoria live music concert stars,euphoria,20210619 144500,musicenthusiast,facebook,euphoria livemusic,15.0,30.0,usa,2021,6,19,14
+125,127,contentment simplicity quiet sunday,contentment,20100815 100000,simplejoys,twitter,contentment sundaymood,30.0,60.0,australia,2010,8,15,10
+126,128,serenity found pages favorite book,serenity,20110922 193000,booklover3,instagram,serenity booktime,22.0,45.0,uk,2011,9,22,19
+127,129,gratitude support received tough times,gratitude,20120310 083000,supportivefriend,facebook,gratitude supportive,15.0,30.0,india,2012,3,10,8
+128,130,hopeful possibilities new journey,hope,20131205 160000,journeyoptimist,twitter,hope newbeginnings,18.0,35.0,canada,2013,12,5,16
+129,131,empowerment learning personal growth,empowerment,20140720 113000,growthseeker,instagram,empowerment personalgrowth,25.0,50.0,usa,2014,7,20,11
+130,132,compassion towards need holidays,compassion,20151222 142000,holidayhelper,facebook,compassion holidaysupport,18.0,35.0,usa,2015,12,22,14
+131,133,tenderness warmth cozy winter evening,tenderness,20160210 194500,winterwarmth,twitter,tenderness cozyevening,25.0,50.0,uk,2016,2,10,19
+132,134,arousal excitement upcoming adventure,arousal,20170430 113000,adventureawaits,instagram,arousal adventuretime,20.0,40.0,australia,2017,4,30,11
+133,135,enthusiasm creative project making,enthusiasm,20180915 160000,creativespirit,facebook,enthusiasm creativity,15.0,30.0,canada,2018,9,15,16
+134,136,fulfillment completing challenging workout routine,fulfillment,20190628 182000,fitnessachiever,twitter,fulfillment fitnessgoals,22.0,45.0,india,2019,6,28,18
+135,137,reverence artistry displayed museum,reverence,20201111 150000,artappreciator,instagram,reverence artappreciation,18.0,35.0,uk,2020,11,11,15
+136,138,elation achieving personal goal,elation,20210302 093000,goalachiever2,facebook,elation personalachievement,25.0,50.0,usa,2021,3,2,9
+137,139,elation discovering hidden gem city,elation,20120218 143000,urbanexplorer2,twitter,elation hiddengem,20.0,40.0,usa,2012,2,18,14
+138,140,euphoria surprise birthday celebration,euphoria,20181105 214500,birthdayjoy,instagram,euphoria birthdaysurprise,15.0,30.0,uk,2018,11,5,21
+139,141,contentment simplicity homecooked meal,contentment,20150912 132000,homechef,facebook,contentment homecooking,25.0,50.0,india,2015,9,12,13
+140,142,serenity found melody peaceful piano,serenity,20160730 181000,musiclover4,twitter,serenity peacefulmelody,18.0,35.0,canada,2016,7,30,18
+141,143,gratitude supportive community around,gratitude,20130420 103000,communitylove,instagram,gratitude communitysupport,30.0,60.0,usa,2013,4,20,10
+142,144,hopeful prospects new business venture,hope,20171208 191500,entrepreneurhope,facebook,hope businessventure,22.0,45.0,canada,2017,12,8,19
+143,145,empowerment mentoring guiding others,empowerment,20140603 082000,mentorempower,twitter,empowerment mentorship,15.0,30.0,uk,2014,6,3,8
+144,146,compassion shown acts kindness community,compassion,20190115 145000,kindnessinaction,instagram,compassion communitykindness,18.0,35.0,australia,2019,1,15,14
+145,147,tenderness heartfelt message loved one,tenderness,20161225 193000,loveexpress,facebook,tenderness lovenote,25.0,50.0,uk,2016,12,25,19
+146,148,arousal excitement muchawaited trip,arousal,20180310 094500,travelexcitement,twitter,arousal traveladventure,20.0,40.0,india,2018,3,10,9
+147,149,enthusiasm new artistic project works,enthusiasm,20200917 163000,artisticspirit,instagram,enthusiasm artisticproject,15.0,30.0,usa,2020,9,17,16
+148,150,feeling sense fulfillment helping others,fulfillment,20110828 184500,helperheart,facebook,fulfillment helpingothers,22.0,45.0,canada,2011,8,28,18
+149,151,reverence historical significance landmark,reverence,20171101 153000,historybuff,twitter,reverence historicalsite,18.0,35.0,australia,2017,11,1,15
+150,152,elation achieving fitness milestone,elation,20190615 100000,fitnessachiever2,instagram,elation fitnessmilestone,25.0,50.0,uk,2019,6,15,10
+151,153,euphoria successful product launch,euphoria,20220403 114500,productlaunchjoy,facebook,euphoria productlaunchsuccess,15.0,30.0,usa,2022,4,3,11
+152,154,contentment embrace loved one,contentment,20101112 202000,lovingembrace,twitter,contentment love,30.0,60.0,india,2010,11,12,20
+153,155,serenity found beauty sunset sea,serenity,20110722 183000,sunsetwatcher2,instagram,serenity sunsetviews,22.0,45.0,canada,2011,7,22,18
+154,156,gratitude small joys day brings,gratitude,20120330 112000,joyfulheart2,facebook,gratitude smalljoys,15.0,30.0,australia,2012,3,30,11
+155,157,hopeful potential personal growth,hope,20131005 164000,growthoptimist,twitter,hope personaldevelopment,18.0,35.0,uk,2013,10,5,16
+156,158,empowerment learning new skill,empowerment,20140710 131500,skillempower,instagram,empowerment skillbuilding,25.0,50.0,india,2014,7,10,13
+157,159,compassion volunteering local charity,compassion,20151218 142000,charityvolunteer,facebook,compassion volunteerwork,18.0,35.0,usa,2015,12,18,14
+158,160,tenderness quiet moment shared pet,tenderness,20160210 194500,petlove,twitter,tenderness petlove,25.0,50.0,canada,2016,2,10,19
+159,161,arousal excitement upcoming festival,arousal,20170925 113000,festivalfan,instagram,arousal festivalexcitement,20.0,40.0,uk,2017,9,25,11
+160,162,enthusiasm diy home improvement project,enthusiasm,20180415 160000,diyenthusiast,facebook,enthusiasm homeimprovement,15.0,30.0,australia,2018,4,15,16
+161,163,fulfillment completing challenging puzzle,fulfillment,20191128 182000,puzzlemaster,twitter,fulfillment puzzlechallenge,22.0,45.0,india,2019,11,28,18
+162,164,reverence wonders nature hiking trail,reverence,20200511 150000,natureadmirer,instagram,reverence natureexploration,18.0,35.0,usa,2020,5,11,15
+163,165,elation surprise reunion childhood friend,elation,20210205 093000,childhoodjoy,facebook,elation friendshipreunion,25.0,50.0,canada,2021,2,5,9
+164,166,suffering despair another setback,despair,20210310 083000,strugglingsoul,twitter,despair struggle,5.0,10.0,usa,2021,3,10,8
+165,167,overwhelmed grief missing loved one dearly,grief,20220705 154500,mourningheart,instagram,grief loss,8.0,15.0,canada,2022,7,5,15
+166,168,loneliness creeps night grows colder,loneliness,20191118 212000,solitarysoul,facebook,loneliness isolation,10.0,20.0,uk,2019,11,18,21
+167,169,jealousy consumes witness others success,jealousy,20200812 113000,enviousobserver,twitter,jealousy envy,12.0,25.0,india,2020,8,12,11
+168,170,resentment building past betrayals,resentment,20180522 144500,bitterheart,instagram,resentment bitterness,7.0,15.0,australia,2018,5,22,14
+169,171,frustration mounts obstacles block path,frustration,20170130 161000,blockedgoals,facebook,frustration obstacles,10.0,20.0,usa,2017,1,30,16
+170,172,boredom sets day feels endlessly dull,boredom,20160928 194500,boredmind,twitter,boredom lackofinterest,8.0,15.0,canada,2016,9,28,19
+171,173,anxiety grips heart worry clouds thoughts,anxiety,20190415 090000,worriedmind,instagram,anxiety worry,12.0,25.0,uk,2019,4,15,9
+172,174,intimidation unknown future ahead,intimidation,20211203 183000,fearfulsoul,facebook,intimidation fear,15.0,30.0,india,2021,12,3,18
+173,175,helplessness sinks challenges pile,helplessness,20200620 142000,overwhelmedheart,twitter,helplessness overwhelmed,8.0,15.0,australia,2020,6,20,14
+174,176,envy eats away see others prosperity,envy,20181107 113000,covetousmind,instagram,envy desire,10.0,20.0,canada,2018,11,7,11
+175,177,regret missed opportunities haunts thoughts,regret,20170825 160000,remorsefulsoul,facebook,regret missedchances,12.0,25.0,uk,2017,8,25,16
+176,178,disgust sight injustice cruelty,disgust,20190211 094500,disgustedheart,twitter,disgust injustice,7.0,15.0,india,2019,2,11,9
+177,179,drowning despair hope slipping fingers,despair,20160402 202000,hopelessheart,instagram,despair hopeless,10.0,20.0,usa,2016,4,2,20
+178,180,grief weighs heavy tears constant companion,grief,20151018 153000,tearfulsoul,facebook,grief tears,12.0,25.0,canada,2015,10,18,15
+179,181,loneliness crowded room silent cry connection,loneliness,20190712 181000,isolatedmind,twitter,loneliness seekingconnection,15.0,30.0,uk,2019,7,12,18
+180,182,jealousy gnaws confidence toxic emotion,jealousy,20180603 163000,selfdoubt,instagram,jealousy insecurity,8.0,15.0,india,2018,6,3,16
+181,183,resentment festers poisoning relationships,resentment,20220115 120000,brokentrust,facebook,resentment brokentrust,10.0,20.0,australia,2022,1,15,12
+182,184,frustration boils volcanic eruption emotions,frustration,20170410 144500,explosivemind,twitter,frustration emotionaloutburst,12.0,25.0,usa,2017,4,10,14
+183,185,boredom settles like dust life feels mundane,boredom,20161128 190000,mundaneheart,instagram,boredom monotony,7.0,15.0,canada,2016,11,28,19
+184,186,anxiety grips chest relentless grip thoughts,anxiety,20180905 093000,restlessmind,facebook,anxiety restlessness,10.0,20.0,uk,2018,9,5,9
+185,187,intimidation challenges ahead fear takes hold,intimidation,20211022 183000,fearfuljourney,twitter,intimidation facingfear,15.0,30.0,india,2021,10,22,18
+186,188,helplessness engulfs drowning sea problems,helplessness,20190508 142000,overwhelmedsoul,instagram,helplessness struggling,8.0,15.0,australia,2019,5,8,14
+187,189,envy poisons thoughts coveting others success,envy,20170320 113000,greeneyedmonster,facebook,envy success,10.0,20.0,canada,2017,3,20,11
+188,190,regret decisions led painful present,regret,20181215 160000,regretfulmind,twitter,regret pastchoices,12.0,25.0,usa,2018,12,15,16
+189,191,disgust corruption stains society,disgust,20160701 094500,corruptedheart,instagram,disgust corruption,7.0,15.0,uk,2016,7,1,9
+190,192,sinking despair day darker last,despair,20200820 202000,drowningsoul,facebook,despair darkdays,10.0,20.0,india,2020,8,20,20
+191,193,grief overwhelms storm emotions within,grief,20210225 153000,stormyheart,twitter,grief emotionalstorm,12.0,25.0,canada,2021,2,25,15
+192,194,loneliness echoes empty spaces yearning connection,loneliness,20190912 181000,echoingsoul,instagram,loneliness yearningforconnection,15.0,30.0,australia,2019,9,12,18
+193,195,jealousy poisons thoughts resentment brewing within,jealousy,20180805 163000,poisonedmind,facebook,jealousy resentment,8.0,15.0,usa,2018,8,5,16
+194,196,resentment festers wound refuses heal,resentment,20170112 120000,unforgivingsoul,twitter,resentment unforgiving,10.0,20.0,india,2017,1,12,12
+195,197,frustration escalates thunderstorm emotions,frustration,20220405 144500,thunderingmind,instagram,frustration emotionaloutburst,12.0,25.0,uk,2022,4,5,14
+196,198,boredom lingers stagnant pool indifference,boredom,20211002 190000,stagnantheart,facebook,boredom stagnation,7.0,15.0,canada,2021,10,2,19
+197,199,embarking journey discovery fueled curiosity thirst knowledge,curiosity,20230415 101500,inquisitivemind,twitter,curiosity learning,15.0,30.0,usa,2023,4,15,10
+198,200,lost vast sea information indifferent wave digital ocean,indifference,20221128 173000,apatheticobserver,instagram,indifference digitaloverload,7.0,15.0,canada,2022,11,28,17
+199,201,complex puzzle life leaves state perpetual confusion seeking answers chaos,confusion,20200402 094500,seekingclarity,facebook,confusion lifepuzzle,10.0,20.0,uk,2020,4,2,9
+200,202,numbness settles shield overwhelming emotions life throws way,numbness,20210810 140000,emotionallydistant,twitter,numbness emotionalshield,8.0,15.0,india,2021,8,10,14
+201,203,gazing sunset melancholic longing moments slip fingers time,melancholy,20190618 204500,sunsetdreamer,instagram,melancholy sunsetmoments,12.0,25.0,australia,2019,6,18,20
+202,204,revisiting old photographs caught embrace nostalgias bittersweet symphony,nostalgia,20180205 151500,memorylanetraveler,facebook,nostalgia memorylane,10.0,20.0,usa,2018,2,5,15
+203,205,torn conflicting emotions ambivalence paints decisions shades uncertainty,ambivalence,20220530 113000,mixedfeelings,twitter,ambivalence uncertainchoices,12.0,25.0,canada,2022,5,30,11
+204,206,embracing ebb flow life finding acceptance dance existence,acceptance,20230110 162000,zenlifestyle,instagram,acceptance lifejourney,15.0,30.0,uk,2023,1,10,16
+205,207,facing challenges headon determination fuels fire within achieve impossible,determination,20200918 134500,resilientspirit,facebook,determination achievetheimpossible,10.0,20.0,india,2020,9,18,13
+206,208,serenity found stillness nature tranquil retreat chaos modern world,serenity,20210703 190000,naturesoul,twitter,serenity natureretreat,12.0,25.0,australia,2021,7,3,19
+207,209,curiosity leading rabbit hole knowledge perpetual student lifes classroom,curiosity,20221008 081500,eternallearner,instagram,curiosity knowledgequest,20.0,40.0,usa,2022,10,8,8
+208,210,floating day air indifference detached mundane happenings around,indifference,20230322 163000,aloofobserver,facebook,indifference floatingthroughlife,10.0,20.0,canada,2023,3,22,16
+209,211,entangled web thoughts confusion reigning navigate labyrinth ideas,confusion,20210515 114500,thoughtexplorer,twitter,confusion thoughtlabyrinth,15.0,30.0,uk,2021,5,15,11
+210,212,numb chaos emotions locked away stoic facade concealing inner turmoil,numbness,20191228 143000,stoicsoul,instagram,numbness stoicfacade,8.0,15.0,australia,2019,12,28,14
+211,213,melancholy whispers breeze silent conversation echoes forgotten dreams,melancholy,20200301 190000,dreamerinsilence,facebook,melancholy whispersinthebreeze,12.0,25.0,india,2020,3,1,19
+212,214,stumbling upon old journal nostalgia flooding waves carrying moments long gone,nostalgia,20180710 154500,journalkeeper,twitter,nostalgia journalmoments,10.0,20.0,canada,2018,7,10,15
+213,215,tapestry conflicting feelings weaving uncertainty caught threads ambivalence,ambivalence,20220105 103000,threadweaver,instagram,ambivalence conflictingfeelings,12.0,25.0,uk,2022,1,5,10
+214,216,embracing flaws finding acceptance imperfection journey towards selflove,acceptance,20210820 162000,selfloveadvocate,facebook,acceptance selflovejourney,15.0,30.0,australia,2021,8,20,16
+215,217,determination burning like wildfire overcoming obstacles turning dreams reality,determination,20191103 134500,dreamchaser,twitter,determination dreamsintoreality,18.0,35.0,usa,2019,11,3,13
+216,218,tranquil moments ocean serenity washing peaceful retreat within waves embrace,serenity,20200412 193000,oceansoul,instagram,serenity oceanretreat,25.0,50.0,canada,2020,4,12,19
+217,219,exploring new horizons spark curiosity adventurer vast landscape knowledge,curiosity,20220415 084500,horizonexplorer,facebook,curiosity newhorizons,22.0,45.0,india,2022,4,15,8
+218,220,drifting day nonchalant demeanor embracing art indifference,indifference,20230210 170000,nonchalantspirit,twitter,indifference driftingthroughlife,9.0,18.0,uk,2023,2,10,17
+219,221,wrestling thoughts perplexed mind lost labyrinth lifes complexities,confusion,20200805 121500,complexthinker,instagram,confusion perplexedmind,14.0,28.0,australia,2020,8,5,12
+220,222,immersed state emotional numbness shield storm daily struggles,numbness,20211201 153000,shieldedheart,facebook,numbness emotionalshield,10.0,20.0,usa,2021,12,1,15
+221,223,melancholic symphony playing background soundtrack wistful heart,melancholy,20190325 210000,symphonysoul,twitter,melancholy wistfulheart,13.0,26.0,canada,2019,3,25,21
+222,224,flipping pages old yearbook nostalgia painting smiles tears face,nostalgia,20170618 144500,yearbookexplorer,instagram,nostalgia yearbookmemories,12.0,25.0,india,2017,6,18,14
+223,225,torn opposing emotions ambivalence colors decisions shades uncertainty,ambivalence,20220708 113000,decisivedilemma,facebook,ambivalence shadesofuncertainty,15.0,30.0,australia,2022,7,8,11
+224,226,embracing lifes imperfections finding acceptance journey scars,acceptance,20230515 162000,imperfectharmony,twitter,acceptance imperfectjourney,18.0,36.0,canada,2023,5,15,16
+225,227,fiery determination burning within fueled vision reaching unparalleled heights,determination,20210910 144500,visionaryspirit,instagram,determination unparalleledheights,20.0,40.0,uk,2021,9,10,14
+226,228,basking serenity quiet forest whispers nature bring peace soul,serenity,20200228 183000,forestdreamer,facebook,serenity naturewhispers,25.0,50.0,usa,2020,2,28,18
+227,231,indifferent noise world silent observer midst lifes cacophony,indifference,20230310 163000,silentspectator,instagram,indifference silentobserver,9.0,18.0,india,2023,3,10,16
+228,232,navigating labyrinth thoughts confusion constant companion maze ideas,confusion,20210502 114500,mazenavigator,facebook,confusion thoughtlabyrinth,14.0,28.0,australia,2021,5,2,11
+229,233,impenetrable numbness shields emotional storms fortress stoic resilience,numbness,20191018 143000,resilientfortress,twitter,numbness stoicresilience,11.0,22.0,uk,2019,10,18,14
+230,234,melancholy painting world hues nostalgia canvas bittersweet memories,melancholy,20200105 200000,canvasdreamer,instagram,melancholy bittersweetmemories,13.0,26.0,usa,2020,1,5,20
+231,235,journey past flipping pages old diary nostalgia taking lead,nostalgia,20180810 154500,diaryexplorer,facebook,nostalgia diaryjourney,12.0,25.0,canada,2018,8,10,15
+232,236,ambivalence clouding decisions caught crossroads conflicting emotions,ambivalence,20220115 103000,crossroadstraveler,twitter,ambivalence conflictingemotions,15.0,30.0,india,2022,1,15,10
+233,237,embracing imperfections finding acceptance mosaic lifes beautiful chaos,acceptance,20210720 162000,mosaicdreamer,instagram,acceptance beautifulchaos,18.0,36.0,australia,2021,7,20,16
+234,238,determination driving force propelling forward path extraordinary achievements,determination,20191203 134500,pathfinderspirit,facebook,determination extraordinarypath,20.0,40.0,usa,2019,12,3,13
+235,239,seeking serenity melody raindrops tranquil escape noise everyday life,serenity,20200412 193000,raindropharmony,twitter,serenity raindropmelody,25.0,50.0,canada,2020,4,12,19
+236,240,curiosity driving exploration unknown seeker knowledge uncharted territories,curiosity,20220508 084500,seekerofunknowns,instagram,curiosity seekerofknowledge,22.0,45.0,uk,2022,5,8,8
+237,241,drifting day air nonchalance indifferent trivialities life,indifference,20230222 170000,nonchalantwanderer,facebook,indifference driftingthroughlife,9.0,18.0,india,2023,2,22,17
+238,242,lost labyrinth thoughts confusion casting shadows quest clarity,confusion,20200605 121500,shadowedseeker,twitter,confusion labyrinthofthoughts,14.0,28.0,australia,2020,6,5,12
+239,243,wrapped cloak emotional numbness shield storms lifes turbulence,numbness,20211130 153000,turbulentshield,instagram,numbness emotionalstorms,10.0,20.0,canada,2021,11,30,15
+240,244,melancholy companion painting canvas life brushstrokes wistful yearning,melancholy,20190225 210000,wistfulpainter,facebook,melancholy wistfulyearning,13.0,26.0,uk,2019,2,25,21
+241,245,leafing pages old photo album nostalgia weaving tales laughter tears,nostalgia,20170518 144500,taleweaver,twitter,nostalgia photoalbumstories,12.0,25.0,usa,2017,5,18,14
+242,246,ambivalence air caught crossroads conflicting emotions decisions,ambivalence,20220805 113000,crossroadsexplorer,instagram,ambivalence crossroadsconfusion,15.0,30.0,canada,2022,8,5,11
+243,247,embracing beauty imperfections finding acceptance mosaic lifes unpredictable art,acceptance,20230615 162000,mosaicartist,facebook,acceptance unpredictableart,18.0,36.0,australia,2023,6,15,16
+244,248,determination ablaze forging path challenges sculpting dreams tangible realities,determination,20211010 144500,dreamsculptor,twitter,determination sculptingdreams,20.0,40.0,uk,2021,10,10,14
+245,249,immerse serenity moonlit night quiet whispers nature bring peace soul,serenity,20200512 193000,moonlitsoul,instagram,serenity moonlitpeace,25.0,50.0,usa,2020,5,12,19
+246,250,fueled curiosity venturing uncharted realms fearless explorer mysteries world,curiosity,20221201 091500,fearlessexplorer,facebook,curiosity fearlessexplorer,22.0,44.0,india,2022,12,1,9
+247,251,wrapped cloak emotional numbness shield storms lifes turbulence,numbness,20211130 153000,turbulentshield,instagram,numbness emotionalstorms,10.0,20.0,canada,2021,11,30,15
+248,252,dancing life exuberance carefree spirit embracing joy zest every turn,zest,20180712 174500,joyfuldancer,twitter,zest carefreespirit,15.0,30.0,usa,2018,7,12,17
+249,253,basking golden glow contentment serene river flowing landscape heart,contentment,20200905 201000,serenebasker,facebook,contentment goldenglow,18.0,36.0,australia,2020,9,5,20
+250,254,gazing towards horizon hopeful eyes painting canvas dreams illuminated sun optimism,hopeful,20220418 080000,dreampainter,instagram,hopeful canvasofdreams,12.0,24.0,india,2022,4,18,8
+251,255,standing tall proud oak branches achievement reaching towards sky accomplishment,proud,20191210 122000,oakachiever,twitter,proud branchesofachievement,25.0,50.0,canada,2019,12,10,12
+252,256,heart overflowing gratitude garden appreciation blooms soil kindness connection,grateful,20230228 094500,heartgardener,facebook,grateful blossomingconnection,20.0,40.0,usa,2023,2,28,9
+253,257,extending hand empathetic threads weaving tapestry understanding embracing joys sorrows others,empathetic,20180403 141500,threadweaver,instagram,empathetic tapestryofunderstanding,15.0,30.0,uk,2018,4,3,14
+254,258,compassionate clouds heavy care showering empathy parched grounds human suffering,compassionate,20220620 103000,cloudcaretaker,twitter,compassionate showerofempathy,18.0,36.0,australia,2022,6,20,10
+255,259,playfully dancing rain laughter whimsical spirit twirling puddles joy lightheartedness,playful,20200708 180000,raindancer,facebook,playful danceintherain,22.0,44.0,canada,2020,7,8,18
+256,260,soaring wings free spirit unburdened chains conformity painting sky independence,freespirited,20210815 111000,skypainter,instagram,freespirit paintingthesky,20.0,40.0,india,2021,8,15,11
+257,261,bathed glow inspiration creative phoenix rising ashes ordinary thoughts explore new realms,inspired,20191025 165000,phoenixexplorer,twitter,inspired creativephoenix,15.0,30.0,uk,2019,10,25,16
+258,262,navigating sea hope sailing towards sunrise possibilities confident ship positive anticipation,hopeful,20231005 073000,sunrisenavigator,facebook,hopeful sunriseofpossibilities,12.0,24.0,usa,2023,10,5,7
+259,263,striding confidence footprints selfassuredness imprinted sands challenges conquered victories claimed,confident,20220215 131500,sandstrider,instagram,confident footprintsofassuredness,25.0,50.0,australia,2022,2,15,13
+260,264,lost symphony night moonlit serenade whispers tales wanderlust moonlit dreams,serenity,20210508 220000,nightserenader,twitter,serenity moonlitserenade,13.0,26.0,canada,2021,5,8,22
+261,265,unveiling layers curiosity labyrinth questions leading treasure troves undiscovered knowledge,curiosity,20201129 144500,knowledgeseeker,instagram,curiosity labyrinthofquestions,17.0,34.0,usa,2020,11,29,14
+262,266,embrace autumn breeze leaves ambivalence dancing waltz choices uncertainties,ambivalence,20190914 102000,breezewaltzer,facebook,ambivalence autumnwaltz,14.0,28.0,uk,2019,9,14,10
+263,267,gratitude guiding star navigating constellation blessings vast universe lifes precious moments,grateful,20220312 195500,starnavigator,twitter,grateful guidingstar,19.0,38.0,australia,2022,3,12,19
+264,268,zestful heart sprinting fields enthusiasm chasing sunbeams laughter meadows joy,zest,20230330 163000,meadowsprinter,instagram,zest fieldsofenthusiasm,16.0,32.0,india,2023,3,30,16
+265,269,compassionate rain tears empathy falling gently nurturing seeds kindness garden human connections,compassionate,20210701 121000,rainnurturer,facebook,compassionate tearsofempathy,21.0,42.0,canada,2021,7,1,12
+266,270,proudly scaling peaks achievement mountaineer conquering challenges planting flag success,proud,20200105 084500,peakconqueror,twitter,proud scalingpeaks,23.0,46.0,usa,2020,1,5,8
+267,271,embraced hopeful dawn gardener sowing seeds optimism tending blooms brighter tomorrow,hopeful,20220717 061500,dawngardener,instagram,hopeful seedsofoptimism,14.0,28.0,uk,2022,7,17,6
+268,272,playful escapade carnival life carousel laughter cotton candy dreams swirling joyous atmosphere,playful,20180822 172000,carnivaldreamer,facebook,playful carnivalescapade,24.0,48.0,australia,2018,8,22,17
+269,273,floating clouds inspiration artist painting sky strokes creativity creating masterpiece dreams,inspired,20211208 143000,skyartist,twitter,inspired cloudsofcreativity,18.0,36.0,india,2021,12,8,14
+270,274,navigating river contentment serene boat cruise tranquil waters inner peace acceptance,contentment,20190427 095000,rivernavigator,instagram,contentment tranquilwaters,20.0,40.0,canada,2019,4,27,9
+271,275,empathy lantern wandering dark alleys sorrow illuminating path compassion care,empathetic,20230903 214000,lanternwanderer,facebook,empathetic lanternofcompassion,16.0,32.0,usa,2023,9,3,21
+272,276,free spirit soaring wings dreams leaving trails independence azure sky boundless possibilities,freespirited,20200610 100500,dreamsoarer,twitter,freespirit wingsofdreams,22.0,44.0,uk,2020,6,10,10
+273,277,bathed golden hues gratefulness sunset appreciation casting warm glow landscapes heart,grateful,20220401 183000,sunsetadmirer,instagram,grateful goldenhues,19.0,38.0,australia,2022,4,1,18
+274,278,confident strides dance life ballroom selfassuredness leads twirling challenges grace,confident,20210115 130000,dancestrider,facebook,confident danceoflife,23.0,46.0,canada,2021,1,15,13
+275,279,hopeful whispers wind carrying promises brighter tomorrow symphony optimism air possibilities,hopeful,20230506 072000,windwhisperer,twitter,hopeful brightertomorrows,15.0,30.0,india,2023,5,6,7
+276,280,playfully juggling responsibilities circus performer balancing acts work joy tossing laughter air,playful,20191118 151500,jugglingartist,instagram,playful jugglingresponsibilities,25.0,50.0,usa,2019,11,18,15
+277,281,whispering tales inspiration stars storyteller crafting constellations threads imagination,inspired,20200829 204500,starstoryteller,facebook,inspired talestothestars,14.0,28.0,uk,2020,8,29,20
+278,282,charting course waves hopeful anticipation sailor steering towards shores dreams yet unexplored,hopeful,20221030 114000,wavenavigator,twitter,hopeful sailorofdreams,17.0,34.0,australia,2022,10,30,11
+279,283,compassionate rain tears empathy falling gently nurturing seeds kindness garden human connections,compassionate,20210701 121000,rainnurturer,instagram,compassionate tearsofempathy,21.0,42.0,canada,2021,7,1,12
+280,284,proudly scaling peaks achievement mountaineer conquering challenges planting flag success,proud,20200105 084500,peakconqueror,twitter,proud scalingpeaks,23.0,46.0,usa,2020,1,5,8
+281,285,embraced hopeful dawn gardener sowing seeds optimism tending blooms brighter tomorrow,hopeful,20220717 061500,dawngardener,instagram,hopeful seedsofoptimism,14.0,28.0,uk,2022,7,17,6
+282,286,playful escapade carnival life carousel laughter cotton candy dreams swirling joyous atmosphere,playful,20180822 172000,carnivaldreamer,facebook,playful carnivalescapade,24.0,48.0,australia,2018,8,22,17
+283,287,floating clouds inspiration artist painting sky strokes creativity creating masterpiece dreams,inspired,20211208 143000,skyartist,twitter,inspired cloudsofcreativity,18.0,36.0,india,2021,12,8,14
+284,288,navigating river contentment serene boat cruise tranquil waters inner peace acceptance,contentment,20190427 095000,rivernavigator,instagram,contentment tranquilwaters,20.0,40.0,canada,2019,4,27,9
+285,289,empathy lantern wandering dark alleys sorrow illuminating path compassion care,empathetic,20230903 214000,lanternwanderer,facebook,empathetic lanternofcompassion,16.0,32.0,usa,2023,9,3,21
+286,290,free spirit soaring wings dreams leaving trails independence azure sky boundless possibilities,freespirited,20200610 100500,dreamsoarer,twitter,freespirit wingsofdreams,22.0,44.0,uk,2020,6,10,10
+287,291,bathed golden hues gratefulness sunset appreciation casting warm glow landscapes heart,grateful,20220401 183000,sunsetadmirer,instagram,grateful goldenhues,19.0,38.0,australia,2022,4,1,18
+288,292,confident strides dance life ballroom selfassuredness leads twirling challenges grace,confident,20210115 130000,dancestrider,facebook,confident danceoflife,23.0,46.0,canada,2021,1,15,13
+289,293,hopeful whispers wind carrying promises brighter tomorrow symphony optimism air possibilities,hopeful,20230506 072000,windwhisperer,twitter,hopeful brightertomorrows,15.0,30.0,india,2023,5,6,7
+290,294,playfully juggling responsibilities circus performer balancing acts work joy tossing laughter air,playful,20191118 151500,jugglingartist,instagram,playful jugglingresponsibilities,25.0,50.0,usa,2019,11,18,15
+291,295,whispering tales inspiration stars storyteller crafting constellations threads imagination,inspired,20200829 204500,starstoryteller,facebook,inspired talestothestars,14.0,28.0,uk,2020,8,29,20
+292,296,charting course waves hopeful anticipation sailor steering towards shores dreams yet unexplored,hopeful,20221030 114000,wavenavigator,twitter,hopeful sailorofdreams,17.0,34.0,australia,2022,10,30,11
+293,297,compassionate rain tears empathy falling gently nurturing seeds kindness garden human connections,compassionate,20210701 121000,rainnurturer,instagram,compassionate tearsofempathy,21.0,42.0,canada,2021,7,1,12
+294,298,proudly scaling peaks achievement mountaineer conquering challenges planting flag success,proud,20200105 084500,peakconqueror,twitter,proud scalingpeaks,23.0,46.0,usa,2020,1,5,8
+295,299,embraced hopeful dawn gardener sowing seeds optimism tending blooms brighter tomorrow,hopeful,20220717 061500,dawngardener,instagram,hopeful seedsofoptimism,14.0,28.0,india,2022,7,17,6
+296,300,playful escapade carnival life carousel laughter cotton candy dreams swirling joyous atmosphere,playful,20180822 172000,carnivaldreamer,facebook,playful carnivalescapade,24.0,48.0,australia,2018,8,22,17
+297,301,drowning abyss despair heart shattered fragments lost echoing silence hopelessness,despair,20210915 160000,shatteredheart,instagram,despair echoingsilence,8.0,16.0,canada,2021,9,15,16
+298,302,bitterness festering like venomous vine entwining soul web resentment poisoning garden peace,bitterness,20190308 142000,venomoussoul,facebook,bitterness resentmentweb,12.0,24.0,uk,2019,3,8,14
+299,303,wandering desert loneliness step heavy sigh mirages connection shimmering never materializing,loneliness,20170720 114500,desertwanderer,twitter,loneliness miragesofconnection,15.0,30.0,usa,2017,7,20,11
+300,304,yearning touch thats echoes distant warmth haunting heart cold embrace solitude,yearning,20201102 193000,coldembrace,instagram,yearning distantwarmth,10.0,20.0,australia,2020,11,2,19
+301,305,eyes wide open night fearful shadows dancing walls mind prisoner imagined horrors,fearful,20220512 020000,nightprisoner,facebook,fearful imaginedhorrors,18.0,36.0,india,2022,5,12,2
+302,306,apprehensive steps tightrope uncertainty balancing act fall seems inevitable anxiety constant companion,apprehensive,20230408 131500,tightropewalker,twitter,apprehensive balancingact,14.0,28.0,uk,2023,4,8,13
+303,307,overwhelmed weight world atlas trembling shoulders responsibility boulder landscape exhaustion,overwhelmed,20210625 175000,atlasbearer,instagram,overwhelmed bouldersofexhaustion,22.0,44.0,canada,2021,6,25,17
+304,308,jealousy greeneyed monster lurking shadows casting dark cloud sunshine others success,jealous,20190830 101000,greenmonster,facebook,jealous greeneyedmonster,16.0,32.0,usa,2019,8,30,10
+305,309,devastated storm betrayal wreckage trust scattered like debris heart torn winds broken promises,devastated,20220803 153000,stormsurvivor,twitter,devastated windsofbrokenpromises,25.0,50.0,australia,2022,8,3,15
+306,310,frustrated fingers tapping keyboard symphony annoyance composing unsolvable puzzle unmet expectations,frustrated,20201217 092000,puzzlecomposer,instagram,frustrated unsolvablepuzzle,12.0,24.0,india,2020,12,17,9
+307,311,envious eyes fixated gilded prize heartache fueled painful desire possessions seem forever reach,envious,20210228 224500,gildedheartache,facebook,envious gildedprize,20.0,40.0,usa,2021,2,28,22
+308,312,dismissive glances fortress built indifference walls impenetrable pleas understanding recognition,dismissive,20180510 140000,indifferentfort,twitter,dismissive impenetrablewalls,14.0,28.0,uk,2018,5,10,14
+309,313,shattered dreams lie floor like fragments glass mosaic disappointment crafted hands frustration,frustrated,20220107 111000,dreammosaic,instagram,frustrated mosaicofdisappointment,15.0,30.0,canada,2022,1,7,11
+310,314,loneliness silent companion night echo chamber solitude hearts solitary nocturne,loneliness,20190919 033000,nocturnalecho,facebook,loneliness solitarynocturne,18.0,36.0,australia,2019,9,19,3
+311,315,fearful whispers dark mind haunted specter unknown shadows dancing rhythm anxietys tune,fearful,20230714 230000,darkwhispers,twitter,fearful specteroftheunknown,13.0,26.0,uk,2023,7,14,23
+312,316,bitterness bitter aftertaste lingering tongue word reminder wounds refuse heal passing time,bitterness,20200405 162000,lingeringtaste,instagram,bitterness bitteraftertaste,10.0,20.0,india,2020,4,5,16
+313,317,overwhelmed cacophony expectations drowning soul tempest pressure struggling stay afloat,overwhelmed,20211129 084500,tempestsurvivor,facebook,overwhelmed drowningsoul,20.0,40.0,usa,2021,11,29,8
+314,318,jealousy venom seeps veins poisoning heart turning breeding ground discontent,jealous,20191212 170000,venomousheart,twitter,jealous heartofdiscontent,16.0,32.0,australia,2019,12,12,17
+315,319,devastated revelation betrayal trust shattered like fragile glass leaving shards pain wake,devastated,20220520 145000,fragiletrust,instagram,devastated shatteredtrust,25.0,50.0,canada,2022,5,20,14
+316,320,frustrated attempts mend broken connection threads understanding slipping fingers like grains sand,frustrated,20200903 121500,brokenthreads,facebook,frustrated slippingthreads,14.0,28.0,uk,2020,9,3,12
+317,321,envious gazes cast upon podium success bitter pill swallowed taste lingering constant reminder unattained heights,envious,20210210 193000,successpill,twitter,envious bitterpill,20.0,40.0,usa,2021,2,10,19
+318,322,dismissive gestures curtain drawn shield vulnerability stage emotions take backseat performance indifference,dismissive,20180818 144000,curtainshield,instagram,dismissive indifferenceperformance,12.0,24.0,australia,2018,8,18,14
+319,323,despair like heavy fog enveloping every thought blurring path ahead journey labyrinth utter hopelessness,despair,20220228 210000,foggylabyrinth,facebook,despair labyrinthofhopelessness,8.0,16.0,canada,2022,2,28,21
+320,324,bitterness bitter chill air freezing moments icicles resentment dangle precariously landscape memory,bitterness,20191015 103000,icyresentment,twitter,bitterness iciclesofresentment,15.0,30.0,uk,2019,10,15,10
+321,325,loneliness solitary moon starless sky casting cold glow landscape isolation echoes bounce empty spaces,loneliness,20171201 185000,solitarymoon,instagram,loneliness starlesssky,18.0,36.0,usa,2017,12,1,18
+322,326,yearning warmth vanished sun heartache painted hues sunset never graced horizon,yearning,20200418 161500,vanishedsunset,facebook,yearning huesofsunset,10.0,20.0,australia,2020,4,18,16
+323,327,fearful eyes scanning shadows prisoner night terrorized lurking monsters born minds darkest corners,fearful,20230107 033000,nightprisoner,twitter,fearful lurkingmonsters,18.0,36.0,india,2023,1,7,3
+324,328,apprehensive whispers wind forecast uncertainty minds weather vane spinning wildly storm doubt,apprehensive,20210610 100000,windwhisperer,instagram,apprehensive stormofdoubt,14.0,28.0,canada,2021,6,10,10
+325,329,overwhelmed maze expectations minotaur pressure lurking labyrinth waiting devour spirit resilience,overwhelmed,20200222 152000,mazeexplorer,facebook,overwhelmed minotaurofpressure,22.0,44.0,usa,2020,2,22,15
+326,330,jealousy festering wound pain intensifying glance garden others achievements blooming beyond fence,jealous,20180317 144500,woundedgarden,twitter,jealous bloomingachievements,16.0,32.0,uk,2018,3,17,14
+327,331,devastated heart ruins echoes shattered dreams reverberating chambers requiem whole,devastated,20221028 111500,ruinedheart,instagram,devastated echoesofshattereddreams,25.0,50.0,australia,2022,10,28,11
+328,332,frustrated attempts untangle knot confusion threads understanding slipping labyrinth miscommunication,frustrated,20201101 123000,knotuntangler,facebook,frustrated labyrinthofmiscommunication,14.0,28.0,india,2020,11,1,12
+329,333,envious eyes locked treasure chest opportunities heartache fueled desire keys seem forever elusive,envious,20210115 221000,elusivekeys,twitter,envious desireforkeys,20.0,40.0,usa,2021,1,15,22
+330,334,dismissive gestures curtain drawn shield vulnerability stage emotions take backseat performance indifference,dismissive,20180818 140000,indifferentfort,instagram,dismissive indifferenceperformance,12.0,24.0,australia,2018,8,18,14
+331,335,shattered dreams lie floor like fragments glass mosaic disappointment crafted hands frustration,frustrated,20220107 111000,dreammosaic,twitter,frustrated mosaicofdisappointment,15.0,30.0,canada,2022,1,7,11
+332,336,loneliness silent companion night echo chamber solitude hearts solitary nocturne,loneliness,20190919 033000,nocturnalecho,facebook,loneliness solitarynocturne,18.0,36.0,australia,2019,9,19,3
+333,337,awestruck breathtaking sunrise mountains,awe,20220403 061500,natureadmirer,instagram,awe breathtakingsunrise,28.0,55.0,usa,2022,4,3,6
+334,338,navigating challenges determination,determination,20231012 103000,goalpursuer,twitter,determination challenges,15.0,30.0,canada,2023,10,12,10
+335,339,nostalgia hits flipping old photo album,nostalgia,20190628 190000,memorylane,facebook,nostalgia oldmemories,22.0,45.0,uk,2019,6,28,19
+336,340,thrilled witness grandeur cultural festival,thrill,20200915 144500,cultureenthusiast,instagram,thrill culturalcelebration,40.0,80.0,india,2020,9,15,14
+337,341,calmness found rhythm raindrops windowpane,calmness,20171108 212000,rainwatcher,twitter,calmness rainydays,18.0,35.0,australia,2017,11,8,21
+338,342,overwhelmed support received personal challenge,overwhelmed,20210520 173000,personaljourney,facebook,overwhelmed supportivecommunity,25.0,50.0,usa,2021,5,20,17
+339,343,excitement builds countdown longawaited vacation begins,excitement,20230110 120000,vacationdreamer,instagram,excitement vacationcountdown,30.0,60.0,france,2023,1,10,12
+340,344,reflecting lifes journey grateful lessons learned,gratitude,20181205 084500,lifelearner,twitter,gratitude lifelessons,35.0,70.0,brazil,2018,12,5,8
+341,345,bittersweet emotions arise bidding farewell dear friend,bittersweet,20200315 183000,farewellsender,instagram,bittersweet farewell,20.0,40.0,japan,2020,3,15,18
+342,346,curiosity sparked exploring mysterious ancient ruin,curiosity,20160822 151000,historyexplorer,facebook,curiosity ancientdiscovery,18.0,35.0,greece,2016,8,22,15
+343,347,admiration intricate details handcrafted masterpiece,admiration,20190820 160000,craftenthusiast,instagram,admiration handcraftedart,25.0,50.0,usa,2019,8,20,16
+344,348,overjoyed warmth cozy fireplace winter evening,overjoyed,20211208 193000,winterlover,twitter,overjoyed winterwarmth,18.0,35.0,canada,2021,12,8,19
+345,349,inspiration strikes observing colors vibrant sunset,inspiration,20200610 204500,sunsetwatcher,instagram,inspiration colorfulsunset,30.0,60.0,uk,2020,6,10,20
+346,350,motivated achieve fitness goals invigorating workout,motivation,20220228 071500,fitnessjunkie,facebook,motivation fitnessgoals,40.0,80.0,australia,2022,2,28,7
+347,351,gratitude simple joys found cup morning coffee,gratitude,20170415 080000,coffeelover,twitter,gratitude morningcoffee,22.0,45.0,india,2017,4,15,8
+348,352,feeling empowered conquering challenging hiking trail,empowerment,20180905 142000,hikingexplorer,instagram,empowerment hikingadventure,35.0,70.0,usa,2018,9,5,14
+349,353,amused antics playful kittens playtime,amusement,20221022 124500,kittyobserver,facebook,amusement playfulkittens,15.0,30.0,canada,2022,10,22,12
+350,354,contemplating lifes mysteries starry night sky,contemplation,20160702 233000,stargazer,twitter,contemplation starrynight,28.0,55.0,uk,2016,7,2,23
+351,355,joyful reunion longlost friends years separation,joyfulreunion,20201118 171000,friendshiprenewal,instagram,joyfulreunion friendship,20.0,40.0,india,2020,11,18,17
+352,356,excitement builds preparing surprise celebration,excitement,20230305 150000,celebrationplanner,facebook,excitement surprisecelebration,30.0,60.0,australia,2023,3,5,15
+353,357,satisfaction derived successfully completing diy project,satisfaction,20151201 113000,diyenthusiast,twitter,satisfaction diyproject,25.0,50.0,usa,2015,12,1,11
+354,358,feeling blessed supportive community times need,blessed,20210910 094500,communityhelper,instagram,blessed supportivecommunity,18.0,35.0,uk,2021,9,10,9
+355,359,captivated serenity tranquil garden full bloom,serenity,20180512 142000,gardenenthusiast,facebook,serenity tranquilgarden,22.0,45.0,canada,2018,5,12,14
+356,360,anticipation upcoming adventure exotic destination,anticipation,20220725 100000,wanderlust,twitter,anticipation adventureawaits,40.0,80.0,india,2022,7,25,10
+357,361,reflecting personal growth achieved life experiences,reflection,20190308 183000,growthseeker,instagram,reflection personalgrowth,35.0,70.0,usa,2019,3,8,18
+358,362,nostalgic memories flood revisiting childhood favorites,nostalgia,20170128 211500,childhoodmemories,facebook,nostalgia childhoodfavorites,20.0,40.0,australia,2017,1,28,21
+359,363,appreciation vibrant culture experienced travel,appreciation,20161114 134500,cultureexplorer,twitter,appreciation culturalexperience,28.0,55.0,uk,2016,11,14,13
+360,364,confidence soars overcoming public speaking anxiety,confidence,20200402 173000,publicspeaker,instagram,confidence overcominganxiety,15.0,30.0,usa,2020,4,2,17
+361,365,contentment midst family gathering filled laughter,contentment,20230115 190000,familycelebration,facebook,contentment familylaughter,25.0,50.0,canada,2023,1,15,19
+362,366,enthusiasm learning new skills expanding knowledge,enthusiasm,20180807 121500,lifelonglearner,twitter,enthusiasm skillbuilding,30.0,60.0,india,2018,8,7,12
+363,367,surprise delight discovering hidden gem city,surprise,20191018 164500,cityexplorer,instagram,surprise hiddengem,18.0,35.0,uk,2019,10,18,16
+364,368,sense accomplishment completing challenging workout,accomplishment,20220630 070000,fitnessachiever,facebook,accomplishment fitnesssuccess,22.0,45.0,australia,2022,6,30,7
+365,369,wonderment beauty double rainbow rain,wonderment,20170612 182000,rainbowchaser,twitter,wonderment doublerainbow,35.0,70.0,usa,2017,6,12,18
+366,370,optimism bright future amidst challenging times,optimism,20210705 093000,futureoptimist,instagram,optimism brightfuture,20.0,40.0,canada,2021,7,5,9
+367,371,pride achieving personal milestone career progression,pride,20160415 145000,careerachiever,facebook,pride careermilestone,28.0,55.0,uk,2016,4,15,14
+368,372,happiness blooms like flowers garden sunny day,happiness,20200210 111500,sunnydayenthusiast,twitter,happiness sunnyday,15.0,30.0,india,2020,2,10,11
+369,373,elation discovering rare book quaint bookstore,elation,20180922 163000,bookworm,instagram,elation rarebookdiscovery,40.0,80.0,usa,2018,9,22,16
+370,374,curiosity piqued mysteries ancient archaeological site,curiosity,20151108 100000,archaeologyenthusiast,facebook,curiosity ancientmysteries,18.0,35.0,australia,2015,11,8,10
+371,375,mesmerized cosmic dance fireflies moonlit night,enchantment,20220810 220000,nightskyobserver,instagram,enchantment cosmicfireflies,25.0,50.0,brazil,2022,8,10,22
+372,376,intrigued symphony colors abstract art exhibition,intrigue,20190405 173000,artconnoisseur,twitter,intrigue abstractart,18.0,35.0,france,2019,4,5,17
+373,377,giggles joy echo air childrens playdate,playfuljoy,20201215 154500,playfulparent,facebook,playfuljoy childrensplaydate,22.0,45.0,japan,2020,12,15,15
+374,378,enveloped serenity practicing mindfulness lake,mindfulness,20171020 081500,zenseeker,instagram,mindfulness laketranquility,35.0,70.0,canada,2017,10,20,8
+375,379,chasing dreams like kite soaring high vast open sky,dreamchaser,20210228 130000,skydreamer,twitter,dreamchaser skyhighdreams,30.0,60.0,australia,2021,2,28,13
+376,380,spellbound elegance ballroom dance crystal chandeliers,elegance,20180612 203000,danceenthusiast,facebook,elegance ballroomdance,28.0,55.0,uk,2018,6,12,20
+377,381,whimsical delight world fairy tales magical creatures,whimsy,20160308 142000,fairytaleexplorer,instagram,whimsy magicalworld,20.0,40.0,usa,2016,3,8,14
+378,382,pensive contemplation amid ancient ruins forgotten civilization,pensive,20230418 171000,ruinsexplorer,twitter,pensive ancientcivilization,18.0,35.0,greece,2023,4,18,17
+379,383,embracing thrill speed rollercoasters exhilarating twists,thrill,20200725 124500,rollercoasterfan,facebook,thrill rollercoasteradventure,22.0,45.0,germany,2020,7,25,12
+380,384,harmony resonates musicians play melody unity togetherness,harmony,20191130 193000,musicharmonist,instagram,harmony musicalunity,35.0,70.0,sweden,2019,11,30,19
+381,385,burst creativity quiet solitude artists studio,creativity,20150901 160000,studioartist,twitter,creativity artistshaven,15.0,30.0,italy,2015,9,1,16
+382,386,radiant joy akin blooming flowers sunkissed spring morning,radiance,20220505 101500,springenthusiast,facebook,radiance springblooms,25.0,50.0,netherlands,2022,5,5,10
+383,387,sense wonder vastness cosmos stargazing night,wonder,20180708 230000,cosmosexplorer,instagram,wonder stargazingadventure,40.0,80.0,south africa,2018,7,8,23
+384,388,rejuvenated salty breeze sound waves seaside,rejuvenation,20210920 143000,seabreezelover,twitter,rejuvenation seasideescape,18.0,35.0,spain,2021,9,20,14
+385,389,whispers inspiration rustling leaves serene forest,inspiration,20161115 114500,forestdreamer,facebook,inspiration forestwhispers,28.0,55.0,portugal,2016,11,15,11
+386,390,savoring warmth cup cocoa chilly winter evening,coziness,20200112 180000,winterwarmth,instagram,coziness warmwinterevening,30.0,60.0,switzerland,2020,1,12,18
+387,391,heartfelt gratitude laughter shared family reunion,gratitude,20171228 191500,familygatherer,facebook,gratitude familylaughter,22.0,45.0,austria,2017,12,28,19
+388,392,embarking culinary adventure savoring exotic flavors around world,adventure,20190302 202000,culinaryexplorer,twitter,adventure culinaryjourney,35.0,70.0,belgium,2019,3,2,20
+389,393,euphoria floods final puzzle piece clicks place,euphoria,20220608 153000,puzzlesolver,instagram,euphoria puzzlecompletion,20.0,40.0,denmark,2022,6,8,15
+390,394,aweinspired grandeur ancient cathedrals intricate architecture,awe,20180818 144500,cathedralvisitor,facebook,awe architecturalgrandeur,18.0,35.0,czech republic,2018,8,18,14
+391,395,captivated ethereal beauty field filled fireflies,enchantment,20220810 220000,nightskyobserver,instagram,enchantment fireflyfield,25.0,50.0,brazil,2022,8,10,22
+392,396,immersed enchanting melodies street musicians violin,melodic,20190405 173000,musiclover,twitter,melodic streetmusic,18.0,35.0,france,2019,4,5,17
+393,397,joyful laughter resonates lively summer carnival,festivejoy,20201215 154500,carnivalgoer,facebook,festivejoy summercarnival,22.0,45.0,japan,2020,12,15,15
+394,398,exploring universe within mindful meditation session,innerjourney,20171020 081500,mindfulexplorer,instagram,innerjourney meditationbliss,35.0,70.0,canada,2017,10,20,8
+395,399,soaring like free spirit winds coastal cliff,freedom,20210228 130000,coastalexplorer,twitter,freedom coastaladventure,30.0,60.0,australia,2021,2,28,13
+396,400,dazzled elegance masquerade balls dazzling costumes,dazzle,20180612 203000,masqueradeattendee,facebook,dazzle masqueradeelegance,28.0,55.0,uk,2018,6,12,20
+397,401,whimsical delight world whimsical fairy tales,whimsy,20160308 142000,fairytaleadventurer,instagram,whimsy fairytalemagic,20.0,40.0,usa,2016,3,8,14
+398,402,reflective contemplation amid ruins forgotten era,reflection,20230418 171000,ruinsexplorer,twitter,reflection forgottenera,18.0,35.0,greece,2023,4,18,17
+399,403,riding adrenaline rush rollercoasters wild twists,adrenaline,20200725 124500,thrillseeker,facebook,adrenaline rollercoasterthrills,22.0,45.0,germany,2020,7,25,12
+400,404,harmony resonates musicians play symphony unity,harmony,20191130 193000,musicharmonist,instagram,harmony musicalunity,35.0,70.0,sweden,2019,11,30,19
+401,405,burst artistic creativity quietude artists studio,artisticburst,20150901 160000,studioartist,twitter,artisticburst studiocreativity,15.0,30.0,italy,2015,9,1,16
+402,406,radiant joy akin blossoming flowers sunlit spring morning,radiance,20220505 101500,springenthusiast,facebook,radiance springblooms,25.0,50.0,netherlands,2022,5,5,10
+403,407,aweinspired vastness cosmos stargazing night,wonder,20180708 230000,cosmosexplorer,instagram,wonder stargazingadventure,40.0,80.0,south africa,2018,7,8,23
+404,408,rejuvenated salty breeze sound waves seaside,rejuvenation,20210920 143000,seabreezelover,twitter,rejuvenation seasideescape,18.0,35.0,spain,2021,9,20,14
+405,409,whispers inspiration rustling leaves serene forest,inspiration,20161115 114500,forestdreamer,facebook,inspiration forestwhispers,28.0,55.0,portugal,2016,11,15,11
+406,410,savoring warmth cup cocoa chilly winter evening,coziness,20200112 180000,winterwarmth,instagram,coziness warmwinterevening,30.0,60.0,switzerland,2020,1,12,18
+407,411,heartfelt gratitude laughter shared family reunion,gratitude,20171228 191500,familygatherer,facebook,gratitude familylaughter,22.0,45.0,austria,2017,12,28,19
+408,412,embarking culinary odyssey savoring flavors around world,culinaryodyssey,20190302 202000,culinaryexplorer,twitter,culinaryodyssey flavorsaroundtheworld,35.0,70.0,belgium,2019,3,2,20
+409,413,euphoria floods final puzzle piece fits perfectly,euphoria,20220608 153000,puzzlesolver,instagram,euphoria perfectpuzzle,20.0,40.0,denmark,2022,6,8,15
+410,414,awestruck grandeur ancient cathedrals intricate architecture,awe,20180818 144500,cathedralvisitor,facebook,awe architecturalgrandeur,18.0,35.0,czech republic,2018,8,18,14
+411,415,curiosity awakened mysteries ancient archaeological site,curiosity,20151108 100000,archaeologyenthusiast,instagram,curiosity ancientmysteries,18.0,35.0,australia,2015,11,8,10
+412,416,giddy excitement first snowflakes dance sky,excitement,20201202 173000,snowfallenthusiast,twitter,excitement snowfallmagic,22.0,45.0,canada,2020,12,2,17
+413,417,contentment envelops aroma freshly baked bread fills air,contentment,20170610 121500,breadlover,instagram,contentment freshbreadaroma,28.0,55.0,france,2017,6,10,12
+414,418,inspired resilience lone tree standing tall storm,resilience,20210415 142000,natureresilient,facebook,resilience standingtall,35.0,70.0,usa,2021,4,15,14
+415,419,lost pages captivating novel transported another world,immersion,20190928 194500,bookworm,twitter,immersion captivatingnovel,20.0,40.0,uk,2019,9,28,19
+416,420,drenched nostalgia flipping old family photo album,nostalgia,20161205 210000,familyhistorian,instagram,nostalgia familyphotoalbum,25.0,50.0,india,2016,12,5,21
+417,421,spark inspiration ignites like shooting star night sky,spark,20180210 233000,nightskywatcher,facebook,spark inspirationignited,30.0,60.0,australia,2018,2,10,23
+418,422,imbued gratitude simple pleasure warm cup tea,gratitude,20230215 083000,teaenthusiast,twitter,gratitude warmtea,18.0,35.0,japan,2023,2,15,8
+419,423,marveling kaleidoscope colors vibrant street market,marvel,20150822 150000,marketexplorer,instagram,marvel colorfulstreetmarket,22.0,45.0,brazil,2015,8,22,15
+420,424,awash serenity sun sets tranquil lakeside retreat,serenity,20201120 184500,lakesideretreater,facebook,serenity tranquilsunset,28.0,55.0,germany,2020,11,20,18
+421,425,drowning sorrow memories lost love resurface,heartbreak,20190805 210000,lostinlove,instagram,heartbreak lostlove,15.0,30.0,usa,2019,8,5,21
+422,426,numbness sets weight loneliness grows heavier,loneliness,20210212 164500,solitudeseeker,twitter,loneliness heavyheart,18.0,35.0,canada,2021,2,12,16
+423,427,tears fall like raindrops mourning end cherished friendship,grief,20201128 142000,friendshipsend,facebook,grief lostfriendship,22.0,45.0,uk,2020,11,28,14
+424,428,despair clouds mind feeling adrift endless sea darkness,despair,20160515 223000,lostindarkness,instagram,despair endlessdarkness,28.0,55.0,australia,2016,5,15,22
+425,429,shattered betrayal trust crumbles like fragile glass,betrayal,20180910 131500,brokentrust,twitter,betrayal shatteredtrust,22.0,45.0,germany,2018,9,10,13
+426,430,aching heart symphony pain plays silence solitude,suffering,20220320 193000,silentsufferer,facebook,suffering heartachesymphony,25.0,50.0,brazil,2022,3,20,19
+427,431,emotional storm whirlwind sadness engulfs every thought,emotionalstorm,20170718 174500,stormyfeelings,instagram,emotionalstorm sadnesswhirlwind,30.0,60.0,india,2017,7,18,17
+428,432,haunted regrets ghost past lingers relentlessly,regret,20181215 100000,lingeringghost,twitter,regret hauntedpast,18.0,35.0,france,2018,12,15,10
+429,433,torn apart grief echoes loss reverberate soul,grief,20150628 211500,echoesofloss,facebook,grief tornapart,28.0,55.0,italy,2015,6,28,21
+430,434,isolation deepens emotional winter warmth distant memory,isolation,20200402 142000,winterofemotions,instagram,isolation emotionalwinter,35.0,70.0,japan,2020,4,2,14
+431,435,soulcrushing disappointment hopes shattered like fragile glass,disappointment,20191008 183000,shatteredhopes,twitter,disappointment crushedhopes,20.0,40.0,spain,2019,10,8,18
+432,436,painful echoes love cherished lost abyss time,lostlove,20161122 094500,abyssoftime,facebook,lostlove painfulechoes,22.0,45.0,netherlands,2016,11,22,9
+433,437,heartache deepens solitary journey abyss despair,despair,20220818 220000,solitarydescent,instagram,despair abyssofheartache,40.0,80.0,south africa,2022,8,18,22
+434,438,melancholy lingers bittersweet serenade quietude solitude,melancholy,20170312 233000,serenadeofsolitude,twitter,melancholy quietserenade,18.0,35.0,uk,2017,3,12,23
+435,439,bitterness like poison seeping every crevice wounded heart,bitterness,20151215 161500,poisonedheart,facebook,bitterness woundedheart,25.0,50.0,australia,2015,12,15,16
+436,440,emotional exhaustion weight world crushing weary shoulders,exhaustion,20210905 133000,wearysoulcrushed,instagram,exhaustion crushedspirit,35.0,70.0,canada,2021,9,5,13
+437,441,sorrowful echoes symphony pain played strings loss,sorrow,20180522 204500,stringsofsorrow,twitter,sorrow symphonyofloss,18.0,35.0,germany,2018,5,22,20
+438,442,darkness descends engulfing soul shadows despair,darkness,20160710 182000,soulinshadow,facebook,darkness soulengulfed,28.0,55.0,usa,2016,7,10,18
+439,443,desperation whispers silent plea glimmer hope abyss,desperation,20190430 140000,whispereddespair,instagram,desperation glimmerofhope,22.0,45.0,france,2019,4,30,14
+440,444,heart ruins remnants shattered dreams scattered wind,ruins,20220108 113000,dreamsinwind,twitter,ruins shattereddreams,20.0,40.0,brazil,2022,1,8,11
+441,445,shattered echoes shattered dream fragments hope scattered,desolation,20170910 191500,dreamechoes,twitter,desolation scatteredhope,20.0,40.0,australia,2017,9,10,19
+442,446,avoiding thorns regret walking barefoot path remorse,regret,20220418 113000,remorsewalker,instagram,regret pathofremorse,25.0,50.0,canada,2022,4,18,11
+443,447,labyrinth grief walls echo footsteps lost joy,grief,20181205 214500,joylabyrinth,facebook,grief lostjoyfootsteps,18.0,35.0,usa,2018,12,5,21
+444,448,soul adrift sea solitude waves loneliness crashing relentlessly,loneliness,20160628 142000,solitudeseas,twitter,loneliness crashingwaves,22.0,45.0,uk,2016,6,28,14
+445,449,bitterness betrayal taste lingers staining palate trust,bitterness,20191022 170000,palatestainer,instagram,bitterness stainedtrust,15.0,30.0,germany,2019,10,22,17
+446,450,ruins hope echoes shattered dreams whisper tales loss,desolation,20210315 224500,hoperuins,facebook,desolation whisperedloss,28.0,55.0,brazil,2021,3,15,22
+447,451,sinking like stone ocean heartbreak ripple sigh despair,heartbreak,20170810 193000,oceansinker,twitter,heartbreak rippleofdespair,22.0,45.0,france,2017,8,10,19
+448,452,tears ink staining pages journal testament silent grief,grief,20230128 143000,inkjournalist,instagram,grief silenttears,30.0,60.0,india,2023,1,28,14
+449,453,wasteland lost trust echoes broken promises reverberate,betrayal,20161212 100000,trustwasteland,facebook,betrayal reverberatingpromises,25.0,50.0,italy,2016,12,12,10
+450,454,avoiding shards shattered dreams walking tightrope resilience,resilience,20200718 151500,dreamtightrope,twitter,resilience tightropewalk,35.0,70.0,japan,2020,7,18,15
+451,455,suffocating silence solitude echoes laughter thrived,isolation,20220520 203000,echoedlaughter,instagram,isolation silentsolitude,30.0,60.0,south africa,2022,5,20,20
+452,456,haunted specter lost possibilities ghost refuses fade away,regret,20191108 144500,possibilityghost,twitter,regret fadingpossibilities,18.0,35.0,spain,2019,11,8,14
+453,457,labyrinth despair echoes broken heart reverberate endlessly,despair,20170328 220000,endlesslabyrinth,facebook,despair endlessreverberation,28.0,55.0,australia,2017,3,28,22
+454,458,sinking like autumn leaves river sorrow carried away current,sorrow,20200915 181500,riverofsorrow,instagram,sorrow autumnleaves,22.0,45.0,canada,2020,9,15,18
+455,459,garden broken dreams petals fall silent testimony shattered hopes,desolation,20180610 133000,dreamgardener,twitter,desolation shatteredhopes,20.0,40.0,uk,2018,6,10,13
+456,460,tears currency grief spent marketplace lost love longing,grief,20161222 214500,currencyoftears,facebook,grief lostlovelonging,25.0,50.0,usa,2016,12,22,21
+457,461,wandering maze betrayal walls closing every wrong turn,betrayal,20210105 162000,mazewanderer,instagram,betrayal closingwalls,15.0,30.0,germany,2021,1,5,16
+458,462,soul weathered storm heartbreak seeking refuge calm,heartbreak,20190418 110000,stormseeker,twitter,heartbreak calmafterstorm,22.0,45.0,brazil,2019,4,18,11
+459,463,tapestry despair threads hope unravel leaving portrait sorrow,despair,20170828 193000,tapestrysorrow,facebook,despair unraveledhope,18.0,35.0,india,2017,8,28,19
+460,464,like withered rose garden love petals fall silent surrender time,loss,20230210 143000,witheredrose,instagram,loss silentsurrender,28.0,55.0,france,2023,2,10,14
+461,465,void heartache echoes love song play note pang longing,heartache,20220710 221500,lovesongecho,instagram,heartache lovesonglonging,30.0,60.0,japan,2022,7,10,22
+462,466,nostalgia bittersweet dance moonlit ballroom cherished memories,nostalgia,20190515 213000,moonlitmemories,twitter,nostalgia cherishedmemories,18.0,35.0,italy,2019,5,15,21
+463,467,symphony grief tear note composing melancholic melody,grief,20181128 140000,symphonyoftears,facebook,grief melancholicmelody,22.0,45.0,germany,2018,11,28,14
+464,468,betrayal venomous serpent slithering garden trust poisoning roots,betrayal,20210302 174500,venomousgarden,instagram,betrayal poisonedtrust,25.0,50.0,canada,2021,3,2,17
+465,469,sinking quicksand despair harder fight deeper descend,despair,20161018 193000,quicksandfighter,twitter,despair deepdescent,20.0,40.0,usa,2016,10,18,19
+466,470,wandering cemetery lost dreams tombstones marking untold sorrows,desolation,20200815 123000,dreamcemetery,facebook,desolation untoldsorrows,28.0,55.0,france,2020,8,15,12
+467,471,swept away river regret currents past refusing release,regret,20170428 162000,regretriver,instagram,regret pastcurrents,18.0,35.0,uk,2017,4,28,16
+468,472,whispers lost love linger attic heart forgotten erased,loss,20190910 210000,heartattic,twitter,loss forgottenlove,22.0,45.0,australia,2019,9,10,21
+469,473,gallery broken promises shattered vow framed painful exhibition,betrayal,20220128 134500,promisegallery,facebook,betrayal shatteredvows,15.0,30.0,brazil,2022,1,28,13
+470,474,echoes solitude silent conversation soul shadows,solitude,20160615 223000,echoedconversation,instagram,solitude shadowconversation,30.0,60.0,spain,2016,6,15,22
+471,475,dancing sunshine step celebration joy found simple moments,joy,20210820 154500,sunshinedancer,instagram,joy simplemoments,40.0,80.0,usa,2021,8,20,15
+472,476,laughter echoes air chorus happiness lifts spirit higher,happiness,20180412 183000,echoedlaughter,twitter,happiness spiritlifter,35.0,70.0,canada,2018,4,12,18
+473,477,garden contentment bloom whispers tales inner peace joy,contentment,20220215 122000,gardenofjoy,facebook,contentment innerpeace,25.0,50.0,uk,2022,2,15,12
+474,478,chasing dreams vibrant sky journey fueled hope enthusiasm,enthusiasm,20191028 141500,dreamchaser,instagram,enthusiasm hopefuljourney,30.0,60.0,australia,2019,10,28,14
+475,479,serenading stars heart full gratitude melody thankfulness,gratitude,20171222 210000,starserenader,twitter,gratitude thankfulmelody,22.0,45.0,india,2017,12,22,21
+476,480,basking glow accomplishment milestone stepping stone happiness,accomplishment,20200610 173000,glowachiever,facebook,accomplishment happinessmilestone,28.0,55.0,germany,2020,6,10,17
+477,481,dance positivity every step rhythm uplifting soul harmony,positivity,20160918 194500,danceharmony,instagram,positivity soulupliftment,18.0,35.0,france,2016,9,18,19
+478,482,overflowing joy cup laughter shared friends moment cherished,joy,20230310 143000,laughtercup,twitter,joy cherishedmoment,20.0,40.0,japan,2023,3,10,14
+479,483,draped warmth kindness quilt compassion stitched love,kindness,20190505 121500,quiltedcompassion,facebook,kindness lovestitches,25.0,50.0,brazil,2019,5,5,12
+480,484,garden friendships bloom testament beauty camaraderie,friendship,20180828 160000,friendshipgarden,instagram,friendship camaraderieblooms,30.0,60.0,south africa,2018,8,28,16
+481,485,embrace love heartbeat melody dancing rhythm affection,love,20221115 204500,melodyoflove,twitter,love rhythmofaffection,35.0,70.0,usa,2022,11,15,20
+482,486,surrounded colors joy canvas painted laughter endless smiles,joy,20190702 170000,colorfullaughter,instagram,joy endlesssmiles,40.0,80.0,canada,2019,7,2,17
+483,487,symphony excitement note burst energy igniting soul fervor,excitement,20210418 142000,symphonyfervor,facebook,excitement ignitedsoul,30.0,60.0,uk,2021,4,18,14
+484,488,surprise gift wrapped anticipation unfolds moment delight wonder,surprise,20230205 193000,wrappeddelight,twitter,surprise wonderfulmoment,25.0,50.0,australia,2023,2,5,19
+485,489,lost maze curiosity twist turn unveils treasures discovery,curiosity,20180922 124500,mazediscovery,instagram,curiosity treasuresofdiscovery,22.0,45.0,india,2018,9,22,12
+486,490,floating clouds gratitude raindrop blessing shower thankfulness,gratitude,20161210 211500,cloudsofblessings,facebook,gratitude showerofthankfulness,28.0,55.0,germany,2016,12,10,21
+487,491,like comet inspiration streaking sky creativity leaving trails brilliance,inspiration,20200528 160000,cometcreativity,twitter,inspiration brillianttrails,18.0,35.0,france,2020,5,28,16
+488,492,celebration success fireworks accomplishment light night sky triumph,success,20171115 223000,fireworkstriumph,instagram,success nightskytriumph,22.0,45.0,japan,2017,11,15,22
+489,493,symphony laughter note key unlocking door boundless happiness,happiness,20210802 190000,laughtersymphony,facebook,happiness boundlesslaughter,30.0,60.0,brazil,2021,8,2,19
+490,494,carnival emotions rollercoaster thrill sends heart wild ride,thrill,20190328 153000,emotioncarnival,instagram,thrill wildheartride,35.0,70.0,south africa,2019,3,28,15
+491,495,standing grandeur eiffel tower moment reflect beauty parisian dreams,reflection,20180512 173000,parisdreamer,twitter,reflection parisiandreams,28.0,55.0,france,2018,5,12,17
+492,496,lost enchantment disneyland ride journey realm childhood fantasies,enchantment,20220928 154500,disneylandexplorer,instagram,enchantment childhoodfantasies,30.0,60.0,usa,2022,9,28,15
+493,497,exploring wonders ferrari world roar engines creating symphony speed,excitement,20191110 140000,ferrarispeedster,facebook,excitement symphonyofspeed,22.0,45.0,italy,2019,11,10,14
+494,498,amidst tulip fields keukenhof tapestry colors paints soul springtime joy,joy,20210402 182000,keukenhofadventurer,instagram,joy springtimecolors,35.0,70.0,netherlands,2021,4,2,18
+495,499,wandering historical streets kyoto step journey heart japans traditions,exploration,20170822 213000,kyotoadventurer,twitter,exploration japanesetraditions,18.0,35.0,japan,2017,8,22,21
+496,500,embrace grand canyon natures masterpiece moment marvel earths grandeur,awe,20200615 164500,canyonmarveler,instagram,awe earthsgrandeur,25.0,50.0,usa,2020,6,15,16
+497,501,journeying serenity santorini sunset paints sky hues tranquility,serenity,20160910 191500,santorinitraveler,facebook,serenity sunsethues,22.0,45.0,greece,2016,9,10,19
+498,502,amazed architectural marvels petra stone telling tales ancient civilization,amazement,20230128 130000,petraexplorer,twitter,amazement ancienttales,30.0,60.0,jordan,2023,1,28,13
+499,503,embarking gondola ride venice canal reflecting romance timeless city,romance,20190418 163000,veniceromantic,instagram,romance timelesscity,20.0,40.0,italy,2019,4,18,16
+500,504,summit machu picchu breathtaking panorama whispers secrets ancient civilizations,awe,20171105 220000,machupicchuadventurer,facebook,awe ancientcivilizations,28.0,55.0,peru,2017,11,5,22
+501,505,heart new york city times square dazzles lights vibrant spectacle urban energy,excitement,20220720 214500,timessquareexplorer,instagram,excitement urbanenergy,35.0,70.0,usa,2022,7,20,21
+502,506,captivated historical charm colosseum stone echoing tales gladiator valor,captivation,20180315 173000,colosseumadventurer,twitter,captivation gladiatortales,25.0,50.0,italy,2018,3,15,17
+503,507,sailing azure waters maldives wave whisper serenity paradise,serenity,20191028 141500,maldivessailor,facebook,serenity paradisewhispers,22.0,45.0,maldives,2019,10,28,14
+504,508,midst amazon rainforest symphony wildlife creates orchestra natures wonders,wonder,20210610 160000,amazonexplorer,instagram,wonder natureorchestra,30.0,60.0,brazil,2021,6,10,16
+505,509,walking great wall china step testament ancient engineering marvels,awe,20170818 193000,greatwallwalker,twitter,awe engineeringmarvels,18.0,35.0,china,2017,8,18,19
+506,510,summit mount fuji breathtaking sunrise paints sky hues accomplishment,accomplishment,20200415 053000,fujisummitachiever,facebook,accomplishment sunrisehues,28.0,55.0,japan,2020,4,15,5
+507,511,exploring ancient ruins angkor wat stone whispering stories khmer civilization,exploration,20161122 130000,angkorwatadventurer,instagram,exploration khmerstories,20.0,40.0,cambodia,2016,11,22,13
+508,512,skiing slopes swiss alps turn dance majesty snowcapped peaks,adventure,20190110 144500,alpsskiadventurer,twitter,adventure snowpeakdance,22.0,45.0,switzerland,2019,1,10,14
+509,513,tranquility kyotos bamboo forest whispers ancient zen wisdom echo groves,tranquility,20230228 162000,kyotobambooseeker,facebook,tranquility zenwisdom,25.0,50.0,japan,2023,2,28,16
+510,514,cruising fjords norway icy landscape breathtaking masterpiece natures grandeur,grandeur,20180528 183000,norwayfjordexplorer,instagram,grandeur icymasterpiece,22.0,45.0,norway,2018,5,28,18
+511,515,front row adeles concert note someone like resonates soulstirring emotion,emotion,20220915 200000,adeleconcertgoer,instagram,emotion adeleconcert,40.0,80.0,usa,2022,9,15,20
+512,516,dancing stars beyoncãs live show feeling power single ladies every move,energy,20190728 213000,beyoncedancer,twitter,energy beyonceconcert,35.0,70.0,usa,2019,7,28,21
+513,517,crowd taylor swift concert lyrics love story create enchanting fairy tale,enchantment,20210510 194500,swiftiedreamer,facebook,enchantment taylorswift,30.0,60.0,usa,2021,5,10,19
+514,518,rocking guitar solos queen tribute concert journey back time freddies spirit,nostalgia,20181202 221500,queentributefan,instagram,nostalgia queentribute,22.0,45.0,uk,2018,12,2,22
+515,519,swaying ed sheerans acoustic melodies serene evening filled perfect moments,serenity,20200818 190000,sheeranmelodylover,twitter,serenity edsheeranconcert,18.0,35.0,uk,2020,8,18,19
+516,520,immersed pulsating beats bruno mars concert uptown funk becomes city joy,joy,20170328 203000,marsjoyexplorer,facebook,joy brunomars,28.0,55.0,usa,2017,3,28,20
+517,521,michael jackson tribute show moonwalking hits celebration king pop,celebration,20220115 211500,mjtributedancer,instagram,celebration mjtribute,25.0,50.0,usa,2022,1,15,21
+518,522,swinging rhythms frank sinatra tribute feeling timeless charm fly moon,charm,20190610 184500,sinatracharmlistener,twitter,charm sinatratribute,22.0,45.0,usa,2019,6,10,18
+519,523,mosh pit metallica concert thunderous chords create symphony headbanging ecstasy,ecstasy,20230320 223000,metallicamoshwarrior,facebook,ecstasy metallicaconcert,35.0,70.0,usa,2023,3,20,22
+520,524,experiencing magic coldplay concert fix becomes beacon hope night,hope,20161128 190000,coldplayhopeseeker,instagram,hope coldplaymagic,30.0,60.0,uk,2016,11,28,19
+521,525,justin bieber concert infectious beats baby create dance floor unbridled enthusiasm,enthusiasm,20180805 200000,bieberdanceenthusiast,instagram,enthusiasm justinbieber,40.0,80.0,canada,2018,8,5,20
+522,526,spotlight lady gaga show costume change metamorphosis creativity artistry,creativity,20210415 213000,gagaartisticchameleon,twitter,creativity ladygaga,35.0,70.0,usa,2021,4,15,21
+523,527,immersed soulful melodies adele tears flow freely moved emotion hello,emotion,20191128 194500,adelemelodytearjerker,facebook,emotion adelemelodies,30.0,60.0,uk,2019,11,28,19
+524,528,drenched confetti katy perry concert kaleidoscope colors igniting night sky,colorful,20200622 220000,katyperrycolorexplosion,instagram,colorful katyperry,22.0,45.0,usa,2020,6,22,22
+525,529,audience jayz performance lyrics empire state mind become anthem pride,pride,20170910 201500,jayzempirelistener,twitter,pride jayzanthem,18.0,35.0,usa,2017,9,10,20
+526,530,dancing shakiras rhythmic beats hips swaying hypnotic charm hips dont lie,hypnotic,20220228 211500,shakirahipsdancer,facebook,hypnotic shakirarhythms,28.0,55.0,colombia,2022,2,28,21
+527,531,u2 concert anthemic chords without create timeless moment connection,connection,20160515 193000,u2connectionseeker,instagram,connection u2anthem,25.0,50.0,ireland,2016,5,15,19
+528,532,rocking guns n roses show iconic riffs sweet child mine echoing night,iconic,20181210 223000,gunsnrosesriffrockstar,twitter,iconic gnrconcert,22.0,45.0,usa,2018,12,10,22
+529,533,crowd ariana grande concert high notes create euphoric symphony,euphoria,20230122 200000,arianaeuphoriachaser,facebook,euphoria arianagrande,35.0,70.0,usa,2023,1,22,20
+530,534,swaying reggae vibes bob marleys tribute concert chord journey jamaicas soul,journey,20200305 184500,marleyreggaetraveler,instagram,journey bobmarleytribute,30.0,60.0,jamaica,2020,3,5,18
+531,535,captivated spellbinding plot twists audience applauds experiencing rollercoaster emotions movie premiere,excitement,20181012 200000,movieenthusiastpremiereattendee,twitter,excitement moviepremierethrills,40.0,80.0,usa,2018,10,12,20
+532,536,credits roll profound sense nostalgia washes reminiscent cherished moments classic films,nostalgia,20190625 221500,filmlovernostalgiaseeker,instagram,nostalgia classicfilmmoments,35.0,70.0,uk,2019,6,25,22
+533,537,streaming latest web series viewer engrossed characters journey feeling sense connection empathy,engagement,20200708 193000,webseriesviewercharacterconnection,facebook,engagement webseriesjourney,30.0,60.0,canada,2020,7,8,19
+534,538,film festival indie filmmakers creation receives standing ovation evoking pride sense accomplishment,pride,20170918 214500,indiefilmmakerfestivalsuccess,twitter,pride indiefilmsuccess,22.0,45.0,australia,2017,9,18,21
+535,539,watching heartwarming family drama tears flow freely characters overcome challenges leaving viewer warm glow,touched,20210115 180000,dramaenthusiastheartwarmingmoments,instagram,touched familydramamoments,28.0,55.0,india,2021,1,15,18
+536,540,oscars actor graciously accepts award radiating joy gratitude recognition outstanding performance,gratitude,20160228 203000,awardwinningactoroscarsrecipient,facebook,gratitude oscarwinningmoment,18.0,35.0,usa,2016,2,28,20
+537,541,discovering hidden gem world documentaries viewer enlightened inspired feeling renewed sense curiosity,inspiration,20220420 173000,documentaryenthusiasthiddengemfinder,twitter,inspiration hiddengemdiscovery,22.0,45.0,france,2022,4,20,17
+538,542,movie credits roll viewer experiences mix awe contemplation pondering deeper meanings woven storyline,contemplation,20191105 211500,filmbuffcontemplativeviewer,instagram,contemplation deepmeanings,28.0,55.0,germany,2019,11,5,21
+539,543,bingewatching thrilling crime series suspense keeps viewer edge seat creating rush adrenaline,suspense,20150712 220000,crimeseriesenthusiastthrillseeker,facebook,suspense crimeseriesthrills,35.0,70.0,japan,2015,7,12,22
+540,544,closing scene unfolds sense satisfaction washes completing cinematic journey profound fulfilling ending,satisfaction,20200910 194500,filmcriticsatisfactionseeker,twitter,satisfaction fulfillingending,22.0,45.0,brazil,2020,9,10,19
+541,545,celebrating historic victory world cup nation erupts joy united triumph football team,joy,20180715 213000,footballfanworldcupcelebration,instagram,joy worldcuptriumph,40.0,80.0,brazil,2018,7,15,21
+542,546,olympics athletes perseverance shines earning gold medal inspiring generation remarkable achievement,inspiration,20200808 194500,olympicsenthusiastgoldmedalwinner,twitter,inspiration olympicachievement,35.0,70.0,usa,2020,8,8,19
+543,547,cricket championship nailbiting finish leaves fans edge seats experiencing rollercoaster emotions,excitement,20190625 221500,cricketfanchampionshipthrills,facebook,excitement cricketchampionship,30.0,60.0,india,2019,6,25,22
+544,548,witnessing recordbreaking marathon spectators filled awe admiration endurance dedication runners,admiration,20211107 173000,marathonspectatorrecordbreaking,instagram,admiration marathonrecords,22.0,45.0,kenya,2021,11,7,17
+545,549,tennis grand slam fierce rivalry unfolds captivating fans display skill sportsmanship world stage,captivation,20170910 201500,tennisenthusiastgrandslamdrama,twitter,captivation tennisrivalry,28.0,55.0,uk,2017,9,10,20
+546,550,cheering underdog basketball finals crowd erupts applause team defies odds claim championship title,triumph,20220620 210000,basketballfanunderdogtriumph,facebook,triumph basketballfinals,18.0,35.0,usa,2022,6,20,21
+547,551,golf tournament golfers precision focus lead stunning victory leaving spectators awe exceptional skill,awe,20160410 183000,golfenthusiastprecisionvictory,instagram,awe golfvictory,22.0,45.0,scotland,2016,4,10,18
+548,552,experiencing thrill highspeed formula 1 race fans edge seats drivers compete championship,thrill,20191124 194500,f1fanhighspeedraceexcitement,twitter,thrill formula1championship,28.0,55.0,germany,2019,11,24,19
+549,553,cycling world championship climber conquers challenging terrains symbolizing determination achievement odds,determination,20150928 223000,cyclingenthusiastworldchampion,facebook,determination cyclingchampion,35.0,70.0,italy,2015,9,28,22
+550,554,witnessing heartwarming comeback hockey finals fans share tears joy team secures historic victory adversity,heartwarming,20201212 200000,hockeyfancomebackvictory,instagram,heartwarming hockeyfinalscomeback,22.0,45.0,canada,2020,12,12,20
+551,555,series defeats soccer team faces disappointment struggling find silver lining challenging season,disappointment,20191102 184500,soccerfanteamdefeats,twitter,disappointment soccerdefeats,40.0,80.0,brazil,2019,11,2,18
+552,556,tennis tournament highly anticipated player experiences setback leaving fans shock questioning unforeseen turn events,frustration,20180710 211500,tennisenthusiastunexpectedsetback,instagram,frustration tennissetback,35.0,70.0,usa,2018,7,10,21
+553,557,facing defeat championship boxer reflects challenges vowing return stronger determined next bout,reflection,20200918 193000,boxingfanchampionshipdefeat,facebook,reflection boxingdefeat,30.0,60.0,uk,2020,9,18,19
+554,558,midst cycling race tire blowout leads frustration cyclist valiantly tries overcome unexpected obstacle,obstacle,20170515 220000,cyclingenthusiasttireblowout,twitter,obstacle cyclingfrustration,22.0,45.0,france,2017,5,15,22
+555,559,gymnasts unexpected fall routine sparks wave sympathy audience highlighting vulnerability sports,sympathy,20210405 201500,gymnasticsfanroutinefall,instagram,sympathy gymnasticsfall,28.0,55.0,japan,2021,4,5,20
+556,560,golf tournament missed crucial putt results defeat causing golfer reflect pressure highstakes competition,pressure,20160820 183000,golfenthusiastmissedputt,facebook,pressure golfdefeat,18.0,35.0,usa,2016,8,20,18
+557,561,experiencing series losses basketball season team grapples frustration determined turn tide renewed effort,renewed effort,20190212 194500,basketballfanteamlosses,twitter,renewedeffort basketballstruggles,22.0,45.0,canada,2019,2,12,19
+558,562,despite meticulous training swimmer faces disappointment splitsecond miscalculation costs lead crucial race,miscalculation,20150628 200000,swimmingenthusiastracesetback,instagram,miscalculation swimmingdisappointment,28.0,55.0,australia,2015,6,28,20
+559,563,weightlifters failed attempt personal record results frustration highlighting challenging nature pushing physical limits,challenge,20220108 213000,weightliftingfanfailedrecord,facebook,challenge weightliftingfailure,35.0,70.0,germany,2022,1,8,21
+560,564,midst soccer match unexpected goal creates moment despair player teammates console encourage,despair,20181215 201500,soccerplayerowngoalmoment,twitter,despair owngoal,22.0,45.0,spain,2018,12,15,20
+561,565,serene beauty sunset nature unfolds canvas colors evoking sense tranquility wonder,tranquility,20210710 190000,natureenthusiastsunsetwonder,instagram,tranquility sunsetbeauty,40.0,80.0,canada,2021,7,10,19
+562,566,embarking spontaneous road trip traveler discovers hidden gems creating memories cherished lifetime,adventure,20190928 203000,travelenthusiastroadtripdiscovery,twitter,adventure roadtripmemories,35.0,70.0,usa,2019,9,28,20
+563,567,amidst bustling city quiet cafã becomes sanctuary reflection cup coffee brings solace wandering mind,solace,20220315 184500,urbanexplorercafesolitude,facebook,solace cafereflection,30.0,60.0,france,2022,3,15,18
+564,568,exploring vibrant street art cultural neighborhood mural tells story infusing city creativity expression,creativity,20171105 211500,artenthusiaststreetartexploration,instagram,creativity streetartvibes,22.0,45.0,brazil,2017,11,5,21
+565,569,world science breakthrough discovery unfolds pushing boundaries knowledge opening new frontiers exploration,breakthrough,20200520 163000,scienceenthusiastdiscoverymoment,twitter,breakthrough scientificdiscovery,28.0,55.0,germany,2020,5,20,16
+566,570,connecting melody live orchestra music enthusiast experiences symphony resonates deep within soul,harmony,20160822 194500,musicloverliveorchestraexperience,facebook,harmony orchestramelody,18.0,35.0,uk,2016,8,22,19
+567,571,embracing aroma freshly baked bread home chef finds joy art baking creating delicious memories loved ones,joy baking,20230410 171500,homebakerdeliciousmemories,instagram,joyinbaking homemadedelights,22.0,45.0,india,2023,4,10,17
+568,572,wandering historical museum history enthusiast becomes immersed tales past envisioning bygone eras,envisioning history,20151218 180000,historybuffmuseumexploration,twitter,envisioninghistory museumtales,28.0,55.0,italy,2015,12,18,18
+569,573,realm literature captivating novel transports reader distant lands weaving tapestry imagination escape,imagination,20211008 203000,bookwormcaptivatingnovelescape,facebook,imagination literaryescape,35.0,70.0,japan,2021,10,8,20
+570,574,capturing essence bustling market photographer freezes moments time frame telling unique vibrant story,vibrancy,20190322 214500,photographyenthusiastmarketmoments,instagram,vibrancy marketstories,22.0,45.0,australia,2019,3,22,21
+571,575,underneath city lights dancer expresses emotions graceful movements creating mesmerizing performance night sky,mesmerizing,20180615 220000,danceenthusiastcitynightperformance,twitter,mesmerizing nightdanceperformance,40.0,80.0,usa,2018,6,15,22
+572,576,heart bustling market street food connoisseur indulges culinary adventure savoring diverse flavors aromas,culinary adventure,20190828 193000,foodiemarketstreetfoodexploration,instagram,culinaryadventure streetfooddelights,35.0,70.0,thailand,2019,8,28,19
+573,577,first snowflake descends winter enthusiast eagerly prepares season frosty delights anticipating magic snowcovered landscapes,winter magic,20221201 174500,snowloverwinterenthusiast,facebook,wintermagic snowylandscapes,30.0,60.0,canada,2022,12,1,17
+574,578,amidst pages captivating mystery novel reader unravels clues secrets experiencing thrilling journey suspense revelation,thrilling journey,20170410 211500,mysterybookwormsuspensefulread,twitter,thrillingjourney mysterynovel,22.0,45.0,uk,2017,4,10,21
+575,579,surrounded vibrant colors flower garden gardener nurtures blossoms finding joy beauty natures everchanging canvas,natures beauty,20200515 183000,gardeningenthusiastflowergarden,instagram,naturesbeauty floraljoy,28.0,55.0,australia,2020,5,15,18
+576,580,astronomy observatory stargazer marvels vastness cosmos contemplating mysteries hidden within celestial expanse,celestial wonder,20160922 200000,astronomyenthusiaststargazing,facebook,celestialwonder stargazing,18.0,35.0,usa,2016,9,22,20
+577,581,engulfed aroma freshly brewed coffee writer finds inspiration every sip embarking journey creativity prose,creative inspiration,20230212 194500,coffeeloverwritersretreat,twitter,creativeinspiration coffeejourney,22.0,45.0,france,2023,2,12,19
+578,582,realm fashion designer unveils collection tells story blending innovation tradition runway creativity,runway creativity,20151110 210000,fashionenthusiastdesignershowcase,instagram,runwaycreativity fashioninnovation,28.0,55.0,italy,2015,11,10,21
+579,583,waves crash shore surfer embraces thrill riding oceans energy capturing essence freedom wave,oceans freedom,20210720 181500,surfingenthusiastwaverider,facebook,oceansfreedom surfingthrills,22.0,45.0,brazil,2021,7,20,18
+580,584,exploring historical architecture ancient city traveler transported bygone era monument whispers tales past,whispers past,20190418 203000,historyexplorerancientcitytour,twitter,whispersofthepast historicaltour,35.0,70.0,greece,2019,4,18,20
+581,585,successfully avoided eye contact crush hallway mission accomplished teencrush stealthmode,excitement,20230520 194500,crushavoider,twitter,crushstruggles avoidingeyecontact,15.0,30.0,usa,2023,5,20,19
+582,586,ran snacks movie marathon crisis level emergency movienightstruggles teenproblems,boredom,20230521 210000,moviebuff,instagram,snackcrisis teenlife,18.0,35.0,canada,2023,5,21,21
+583,587,spent hour choosing perfect filter selfie struggle instagram aesthetic real selfiequeen teenvibes,joy,20230522 143000,selfieaddict,facebook,selfiestruggle teenconfessions,22.0,45.0,uk,2023,5,22,14
+584,588,lost headphones vanish thin air headphonemystery teenlife,frustration,20230523 164500,audioexplorer,twitter,teenproblems lostheadphones,20.0,40.0,usa,2023,5,23,16
+585,589,decided study exams ended making memes studying instead procrastination level expert procrastinationnation teenconfessions,surprise,20230524 131500,memecreator,instagram,studyingmemes teenlife,25.0,50.0,canada,2023,5,24,13
+586,590,got dressed day remembered saturday oops weekendvibes teenstruggles,indifference,20230525 190000,fashionblunder,facebook,weekendoops teenfashion,20.0,40.0,usa,2023,5,25,19
+587,591,survived group project without drama miracles happen groupprojectsuccess teenachievements,satisfaction,20230526 142000,groupgenius,twitter,teensuccess projectmiracle,28.0,55.0,uk,2023,5,26,14
+588,592,entered kitchen intention cook left bag chips cooking overrated anyway masterchefintraining teenhumor,disgust,20230527 211500,chipexplorer,instagram,teenchef cookingfail,22.0,45.0,canada,2023,5,27,21
+589,593,staring clock class waiting bell ring like exciting event day classcountdown teenlife,surprise,20230528 120000,excitementseeker,facebook,classevent teenexcitement,18.0,35.0,usa,2023,5,28,12
+590,594,discovered new book series spent whole night reading needs sleep anyway bookwormlife latenightreading,joy,20230529 233000,nightreader,twitter,bookdiscoveries teenreading,30.0,60.0,uk,2023,5,29,23
+591,595,bought new video game played hours forgot eat ultimate gaming session gamerlife nofoodgaming,excitement,20230530 204500,gamingenthusiast,instagram,gameon teengamer,22.0,45.0,usa,2023,5,30,20
+592,596,spent day bingewatching new series productivity level zero lazyday tvseriesmarathon,joy,20230531 153000,lazywatcher,facebook,bingewatchday teenlife,35.0,70.0,canada,2023,5,31,15
+593,597,caught latest fashion trends planning shopping spree fashionista trendyteen,excitement,20230601 180000,trendexplorer,twitter,fashiongoals teenstyle,20.0,40.0,usa,2023,6,1,18
+594,598,decided learn new instrument day one still trying figure hold musicnovice learningjourney,frustration,20230602 143000,musicalexplorer,instagram,instrumentlearning teenmusic,28.0,55.0,uk,2023,6,2,14
+595,599,spent hours creating perfect playlist every mood music therapy playlistmaker teenmusiclover,joy,20230603 211500,musicaficionado,facebook,musictherapy teenplaylist,22.0,45.0,canada,2023,6,3,21
+596,600,successfully cooked gourmet meal family chef skills unlocked chefmode teenchef,pride,20230604 193000,homechef,twitter,cookingsuccess teencook,25.0,50.0,usa,2023,6,4,19
+597,601,spontaneously booked weekend getaway adventure awaits travelbug weekendescape,excitement,20230605 100000,adventureseeker,instagram,getawaygoals teentravel,18.0,35.0,uk,2023,6,5,10
+598,602,attended concert danced night away music heartbeat life concertvibes danceallnight,joy,20230606 223000,danceenthusiast,facebook,musicmagic teenconcert,28.0,55.0,canada,2023,6,6,22
+599,603,rediscovered childhood cartoons nostalgiafilled marathon cartoonnostalgia teenmemories,joy,20230607 124500,nostalgiaexplorer,twitter,childhoodmemories teencartoons,22.0,45.0,usa,2023,6,7,12
+600,604,embarked diy home decor project lets hope turns better last time diyadventure teenhomedecor,excitement,20230608 160000,homedecorator,instagram,diygoals teencreative,35.0,70.0,uk,2023,6,8,16
+601,605,spent afternoon museum pretending cultured art enthusiast making museumday teenartlover,curiosity,20230609 140000,artexplorer,facebook,culturalday teencuriosity,20.0,40.0,usa,2023,6,9,14
+602,606,started blog random thoughts musings blogging new diary bloggerlife teenblogger,curiosity,20230610 173000,thoughtfulblogger,twitter,bloggingjourney teenthoughts,30.0,60.0,canada,2023,6,10,17
+603,607,relishing peaceful afternoon classic novel quiet moments best moments booklover peacefulafternoon,contentment,20230611 153000,novelenthusiast,instagram,quietmoments bookishescape,35.0,70.0,usa,2023,6,11,15
+604,608,reflecting lifetime memories wrinkle tells story embracing beauty aging lifereflections beautyinaging,gratitude,20230612 180000,wisesoul,twitter,aginggracefully memories,28.0,55.0,uk,2023,6,12,18
+605,609,exploring world digital art never late discover new passions digitalartistry latebloomer,curiosity,20230613 144500,artadventurer,facebook,artdiscovery seniorartist,22.0,45.0,canada,2023,6,13,14
+606,610,savoring flavors homecooked meal simple joys heart happiness homecooking simplejoys,contentment,20230614 193000,homechefsenior,instagram,happinessinfood seniorlife,25.0,50.0,usa,2023,6,14,19
+607,611,embarking journey learning new language mind stays young every new word languagelearning nevertoolate,curiosity,20230615 121500,linguisticexplorer,twitter,mindenrichment seniorlearning,30.0,60.0,uk,2023,6,15,12
+608,612,attended classical music concert feeling timeless melodies resonate music transcends generations classicalmusic timelessmelodies,joy,20230616 214500,musicconnoisseur,facebook,musiclover seniorconcert,18.0,35.0,canada,2023,6,16,21
+609,613,capturing beauty nature photography every snapshot treasure naturephotography seniorphotographer,joy,20230617 150000,photographysenior,instagram,naturecapture seniormoments,35.0,70.0,usa,2023,6,17,15
+610,614,reconnecting old friends cup tea friendship true essence companionship oldfriends companionship,contentment,20230618 113000,teatimesenior,twitter,friendshipgoals seniorbonding,28.0,55.0,uk,2023,6,18,11
+611,615,embarked road trip revisit cherished places past nostalgia ultimate travel companion roadtrip nostalgiatour,joy,20230619 163000,roadtripsenior,facebook,cherishedplaces seniortravel,22.0,45.0,canada,2023,6,19,16
+612,616,joined community choir harmonizing fellow voices music creates bonds withstand time communitychoir harmonyinaging,joy,20230620 142000,choirenthusiast,instagram,musicharmony seniorvoices,20.0,40.0,usa,2023,6,20,14
+613,617,exploring art meditation finding tranquility stillness mind meditationjourney tranquilmind,contentment,20230621 190000,meditationsenior,twitter,mindfulliving seniorcalm,18.0,35.0,uk,2023,6,21,19
+614,618,taking stroll garden appreciating beauty blooming flowers natures wonders never cease gardenwalk floralbeauty,contentment,20230622 134500,gardenenthusiast,facebook,naturewonders seniorgarden,25.0,50.0,usa,2023,6,22,13
+615,619,sipping favorite vintage wine sip telling story years gone cheers life welllived winelover vintagecheers,contentment,20230623 184500,wineconnoisseur,instagram,lifewelllived seniorwine,28.0,55.0,uk,2023,6,23,18
+616,620,participated community art class unleashing creativity golden years art age limit artclass seniorartistry,joy,20230624 161500,artisticsenior,twitter,creativityatanyage seniorcreativity,22.0,45.0,canada,2023,6,24,16
+617,621,embarking journey writing memoir documenting lifetime experiences every story matters memoirwriting seniorstories,gratitude,20230625 203000,memoiristsenior,facebook,lifetimeexperiences seniormemoir,35.0,70.0,usa,2023,6,25,20
+618,622,attended lecture history always fascinated lessons past learning lifelong adventure historylecture seniorlearning,curiosity,20230626 140000,historyenthusiast,instagram,lifetimeadventure seniorcuriosity,30.0,60.0,uk,2023,6,26,14
+619,623,rediscovered joy cooking traditional family recipes kitchen place cherished memories familyrecipes seniorcooking,contentment,20230627 174500,familychefsenior,twitter,kitchenmemories seniorculinary,20.0,40.0,usa,2023,6,27,17
+620,624,joined nature photography club capturing beauty great outdoors every click connection nature naturephotography seniorphotographer,joy,20230628 221500,naturephotographysenior,facebook,outdoorbeauty seniorclicks,18.0,35.0,uk,2023,6,28,22
+621,625,attended jazz concert swayed rhythm timeless tunes music constant companion golden years jazzconcert seniormusic,joy,20230629 163000,jazzmusiclover,instagram,timelesstunes seniorjazz,25.0,50.0,usa,2023,6,29,16
+622,626,joined writing group penning thoughts reflections writing journey depths soul writinggroup seniorwriter,gratitude,20230630 193000,seniorwordsmith,twitter,soulfulwriting seniorreflections,28.0,55.0,uk,2023,6,30,19
+623,627,embarked solo travel adventure discovering beauty new places pace solotravel seniorexplorer,excitement,20230701 140000,soloadventurer,instagram,discovernewplaces seniortravel,30.0,60.0,usa,2023,7,1,14
+624,628,attended vintage car show reminiscing classics ruled roads nostalgia every rev vintagecars classicrides,joy,20230702 183000,carenthusiastsenior,facebook,roadtripdownmemorylane seniorcars,22.0,45.0,uk,2023,7,2,18
+625,629,started community garden growing plants friendships green thumbs unite communitygarden seniorgardener,joy,20230703 124500,greenthumbsenior,twitter,gardenfriends seniorgreenthumb,28.0,55.0,canada,2023,7,3,12
+626,630,hosted family dinner laughter echoed louder clinking utensils family heart happiness familydinner seniorhost,contentment,20230704 170000,familyhostsenior,instagram,heartwarmingmoments seniorfamily,35.0,70.0,usa,2023,7,4,17
+627,631,enrolled dance class seniors moving rhythm life age number dance floor danceclass seniordancer,joy,20230705 201500,danceenthusiastsenior,twitter,dancelife seniormoves,18.0,35.0,uk,2023,7,5,20
+628,632,visited art gallery appreciating brushstrokes tell tales creativity art eternal companion artgallery seniorartlover,joy,20230706 143000,artgalleryvisitor,facebook,creativeexpressions seniorart,25.0,50.0,usa,2023,7,6,14
+629,633,started book club seniors discussions lively characters novels bookclub seniorreaders,joy,20230707 194500,seniorbookclub,instagram,bookishtalks seniorbookworms,22.0,45.0,uk,2023,7,7,19
+630,634,hosted picnic park basking warmth friendship sunshine simple joys timeless memories parkpicnic seniorjoy,contentment,20230708 160000,seniorpicnichost,twitter,friendshipsunshine seniormemories,30.0,60.0,canada,2023,7,8,16
+631,635,participated local theater production proving stage belongs every age theaterproduction senioractor,joy,20230709 223000,senioractor,facebook,stagepassion seniortheater,20.0,40.0,usa,2023,7,9,22
+632,636,embarked hiking adventure conquering trails relishing beauty nature age number mountaintop hikingadventure seniorhiker,excitement,20230710 142000,seniorhikerexplorer,instagram,naturetrailblazer seniorexplorer,28.0,55.0,uk,2023,7,10,14
+633,637,hosted photography exhibition featuring snapshots life welllived every photo story tell photographyexhibition seniorphotographer,gratitude,20230711 184500,seniorphotographerexhibitor,twitter,lifeinpictures seniorexhibition,22.0,45.0,canada,2023,7,11,18
+634,638,joined seniors cycling club feeling wind hair freedom open road cyclingclub seniorcyclist,excitement,20230712 134500,seniorcyclingenthusiast,facebook,openroadadventures seniorcycling,25.0,50.0,usa,2023,7,12,13
+635,639,attended wine tasting event savoring richness flavors age like fine wine cheers golden years winetasting seniorwinelover,joy,20230713 200000,seniorwineconnoisseur,instagram,agedtoperfection seniorcheers,35.0,70.0,uk,2023,7,13,20
+636,640,started learning ballroom dancing gliding gracefully across dance floor ageless elegance every step ballroomdancing seniordancer,joy,20230714 161500,seniorballroomdancer,twitter,gracefulmoves seniordance,20.0,40.0,usa,2023,7,14,16
+637,641,organized community painting event turning blank canvases masterpiece shared creativity paintingevent seniorartist,joy,20230715 193000,seniorpaintingorganizer,facebook,communityart seniorcreativity,28.0,55.0,canada,2023,7,15,19
+638,642,hosted memory lane evening old friends reminiscing adventures shaped lives memorylane seniorreminiscing,gratitude,20230716 140000,seniormemorieshost,instagram,friendshipadventures seniornostalgia,30.0,60.0,usa,2023,7,16,14
+639,643,joined seniors astronomy club stargazing finding wonder vastness cosmos astronomyclub seniorstargazer,curiosity,20230717 221500,seniorstargazer,twitter,celestialwonders seniorastronomy,18.0,35.0,uk,2023,7,17,22
+640,644,attended local jazz festival tapping toes tunes stood test time music lifelong love affair jazzfestival seniormusiclover,joy,20230718 163000,seniorjazzfestivalgoer,facebook,timelesstunes seniorjazz,25.0,50.0,usa,2023,7,18,16
+641,645,started blog sharing wisdom gained years proving every day chance learn grow seniorwisdom blog,gratitude,20230719 194500,wisdombloggersenior,instagram,lifelessons seniorblog,22.0,45.0,uk,2023,7,19,19
+642,646,participated charity run proving age barrier supporting meaningful causes charityrun seniorrunner,excitement,20230720 170000,seniorcharityrunner,twitter,runforacause seniorsupport,30.0,60.0,canada,2023,7,20,17
+643,647,survived challenging physics exam equations wont defeat,relief,20230801 133000,physicswhizhighschool,instagram,physicssurvivor highschooladventures,20.0,40.0,usa,2023,8,1,13
+644,648,exploring world coding debugging adventure codingjourney highschoolcoder,excitement,20230802 144500,codeexplorerhighschool,twitter,codingadventure highschoolcoderlife,25.0,50.0,uk,2023,8,2,14
+645,649,joined school debate team words weapons im ready battle,excitement,20230803 121500,debatewarriorhighschool,facebook,debatewarrior highschooldebater,18.0,35.0,canada,2023,8,3,12
+646,650,started photography club school capturing moments one snapshot time,joy,20230804 163000,photoclubhighschool,instagram,photographyclub highschoolphotographer,22.0,45.0,usa,2023,8,4,16
+647,651,daydreaming upcoming prom dress dance â fairytale making,excitement,20230805 194500,promdreamerhighschool,twitter,promdreams highschoolfairytale,30.0,60.0,canada,2023,8,5,19
+648,652,convinced teacher class outdoors learning equations side fresh air,positive,20230806 140000,outdoorclasshighschool,facebook,outdoorclassroom highschoolexplorer,28.0,55.0,usa,2023,8,6,14
+649,653,accidentally spilled paint art class abstract art right artclassadventures highschoolartist,embarrassed,20230807 194500,paintspillhighschool,instagram,artisticmishaps highschoolart,22.0,45.0,uk,2023,8,7,19
+650,654,trying master perfect kickflip skateboard skating weekend like pro,excitement,20230808 160000,skateprohighschool,twitter,skaterlife highschoolskater,30.0,60.0,canada,2023,8,8,16
+651,655,bonding friends latest kpop sensation fangirling finest,joy,20230809 223000,kpopfangirlhighschool,facebook,kpopfangirl highschoolmusic,20.0,40.0,usa,2023,8,9,22
+652,656,spent hours perfecting chemistry experiment mixing potions like wizard,joy,20230810 142000,chemistrywizardhighschool,instagram,chemistrywizard highschoolscientist,28.0,55.0,uk,2023,8,10,14
+653,657,successfully organized surprise birthday party friend party planning expert mode achieved,joy,20230811 184500,birthdaypartyplannerhighschool,twitter,birthdayparty highschoolcelebration,22.0,45.0,canada,2023,8,11,18
+654,658,joined drama club unleash inner actor lights camera action,excitement,20230812 134500,dramaclubstarhighschool,facebook,dramaclubstar highschoolactor,25.0,50.0,usa,2023,8,12,13
+655,659,got hands latest fantasy novel diving realms magic adventure,excitement,20230813 200000,fantasybooknerdhighschool,instagram,fantasybooknerd highschoolreader,35.0,70.0,uk,2023,8,13,20
+656,660,mastering art perfect doodle boring classes doodles,joy,20230814 161500,doodlemasterhighschool,twitter,doodlemaster highschoolart,20.0,40.0,usa,2023,8,14,16
+657,661,attempting break school record longest handstand wish luck,excitement,20230815 193000,handstandchallengehighschool,facebook,handstandchallenge highschoolathlete,28.0,55.0,canada,2023,8,15,19
+658,662,sneaking snacks class like pro art snacksmuggling sacred skill,mischievous,20230816 140000,snacksmugglerhighschool,instagram,snacksmuggler highschoolsnacks,30.0,60.0,usa,2023,8,16,14
+659,663,hosting sleepover friends weekend preparing night laughter memories,excitement,20230817 221500,sleepoverhosthighschool,twitter,sleepoverfun highschoolmemories,18.0,35.0,uk,2023,8,17,22
+660,664,spent hours tiktok dance realize two left feet dance fail unleashed,embarrassed,20230818 163000,tiktokfailhighschool,facebook,dancefail highschooltiktok,25.0,50.0,usa,2023,8,18,16
+661,665,accidentally liked crushs old photo stalking profile awkward level maximum,embarrassed,20230819 194500,socialmediablunderhighschool,instagram,socialmediablunder highschoolawkward,22.0,45.0,uk,2023,8,19,19
+662,666,tried impress crush smooth conversation ended spilling drink smooth level nonexistent,embarrassed,20230820 170000,crushfailhighschool,twitter,crushfail highschoolembarrassment,30.0,60.0,canada,2023,8,20,17
+663,667,mastered art creating paper airplanes lecture paper planes soaring new heights,joy,20230821 154500,paperplaneexperthighschool,instagram,paperplaneexpert highschoolart,15.0,30.0,usa,2023,8,21,15
+664,668,trying set new trend juggling textbooks classes academic juggling unique skill,excitement,20230822 123000,jugglingprohighschool,facebook,textbookjuggling highschoolskills,22.0,40.0,canada,2023,8,22,12
+665,669,hiding snack stash backpack emergency cravings snack ninja mode activated,mischievous,20230823 164500,snackninjahighschool,twitter,snackninja highschoolsnacks,28.0,55.0,usa,2023,8,23,16
+666,670,planning surprise scavenger hunt friends anticipating thrill excitement,excitement,20230824 182000,scavengerhuntmasterhighschool,instagram,surpriseadventure highschoolfun,20.0,38.0,uk,2023,8,24,18
+667,671,danced rain celebrate end exams rain dance unexpectedly refreshing,joy,20230825 141500,raindancecelebrationhighschool,facebook,raindance highschooljoy,25.0,50.0,canada,2023,8,25,14
+668,672,accidentally sent text meant friend class group chat texting fail oops moment,embarrassed,20230826 173000,groupchatblunderhighschool,twitter,textingfail highschoolawkward,18.0,35.0,usa,2023,8,26,17
+669,673,tried magic trick impress classmates magic fail rabbit go,embarrassed,20230827 204500,magicfailhighschool,instagram,magicfail highschoolmagic,22.0,45.0,uk,2023,8,27,20
+670,674,perfecting art creating origami dull lecture origami mastery,joy,20230828 160000,origamiprohighschool,twitter,origamimaster highschoolart,18.0,36.0,usa,2023,8,28,16
+671,675,attempting set new record consecutive hacky sack kicks hacky sack skills unleashed,excitement,20230829 134500,hackysackchampionhighschool,instagram,hackysackchallenge highschoolathlete,26.0,48.0,canada,2023,8,29,13
+672,676,creating secret handshake friends friendship level expert,joy,20230830 173000,secrethandshakehighschool,facebook,friendshipgoals highschoolmemories,20.0,40.0,usa,2023,8,30,17
+673,677,embarking mission find best burger joint town burger connoisseur reporting duty,excitement,20230831 201500,burgerquesthighschool,twitter,burgerquest highschoolfoodie,24.0,42.0,uk,2023,8,31,20
+674,678,practicing standup comedy routine upcoming talent show comedy gig making,joy,20230901 144500,comedygeniushighschool,instagram,standupcomedy highschooltalent,21.0,39.0,canada,2023,9,1,14
+675,679,accidentally sent love letter wrong person love note fail maximum embarrassment,embarrassed,20230902 183000,loveletterblunderhighschool,facebook,loveletterfail highschoolawkward,17.0,33.0,usa,2023,9,2,18
+676,680,attempting impress teacher elaborate science experiment science geek mode activated,excitement,20230903 220000,scienceexperimentprohighschool,twitter,sciencegeek highschoolexperiments,23.0,44.0,uk,2023,9,3,22
+677,681,crafting intricate friendship bracelets whole squad friendship level expert weaver,joy,20230904 151500,braceletcraftsmanhighschool,instagram,friendshipbracelets highschoolcrafts,19.0,37.0,usa,2023,9,4,15
+678,682,attempting beat record consecutive cartwheels cartwheel challenge underway,excitement,20230905 123000,cartwheelmasterhighschool,twitter,cartwheelchallenge highschoolathlete,27.0,52.0,canada,2023,9,5,12
+679,683,organizing movie marathon friends popcorn cinematic adventures await,joy,20230906 164500,moviemarathonhosthighschool,facebook,movienight highschoolmemories,22.0,43.0,uk,2023,9,6,16
+680,684,experimenting new hair color bold change bold semester,excitement,20230907 182000,haircolorexperimenthighschool,instagram,hairexperiment highschoolstyle,20.0,39.0,usa,2023,9,7,18
+681,685,building time capsule capture memories future timetraveling emotions,joy,20230908 141500,timecapsulecreatorhighschool,facebook,timecapsule highschoolnostalgia,26.0,48.0,canada,2023,9,8,14
+682,686,accidentally walked wrong classroom first day classroom mixup awkward start,embarrassed,20230909 173000,classroomblunderhighschool,twitter,firstdayoops highschoolembarrassment,16.0,32.0,usa,2023,9,9,17
+683,687,trying new smoothie recipe healthy start week smoothie enthusiast level,excitement,20230910 204500,smoothieconnoisseurhighschool,instagram,healthyliving highschoolwellness,23.0,42.0,uk,2023,9,10,20
+684,688,reflecting challenges school year feeling bit overwhelmed assignments,sad,20230911 154500,overwhelmedhighschoolstudent,twitter,schoolchallenges highschoolstruggles,15.0,28.0,usa,2023,9,11,15
+685,689,encountered meanspirited comments online dealing online hate never easy,hate,20230912 123000,dealingwithhatehighschool,instagram,onlinehate highschoolreality,18.0,36.0,canada,2023,9,12,12
+686,690,bad day school everything seems going wrong,bad,20230913 164500,toughdayhighschool,facebook,badday highschoolblues,20.0,40.0,uk,2023,9,13,16
+687,691,feeling making sports team disappointment lingers,sad,20230914 182000,sportsteamrejectionhighschool,twitter,disappointment highschoolsports,17.0,34.0,usa,2023,9,14,18
+688,692,witnessed heated argument cafeteria unpleasant atmosphere lunch,hate,20230915 141500,cafeteriaconflicthighschool,instagram,cafeteriadrama highschooltension,21.0,41.0,canada,2023,9,15,14
+689,693,received notsogreat grade major project academic frustration setting,bad,20230916 173000,projectgradedisappointmenthighschool,facebook,academicfrustration highschoolstress,19.0,38.0,uk,2023,9,16,17
+690,694,dealing personal setback sometimes life throws unexpected challenges,sad,20230917 204500,personalsetbackhighschool,twitter,lifechallenges highschoolstruggles,22.0,44.0,usa,2023,9,17,20
+691,695,feeling lonely saturday night sometimes solitude hits harder expected,sad,20230918 220000,lonelysaturdayhighschool,instagram,lonelynights highschoolemotions,16.0,31.0,canada,2023,9,18,22
+692,696,experiencing cyberbullying hateful messages online disheartening,hate,20230919 151500,cyberbullyingvictimhighschool,facebook,stopcyberbullying highschoolreality,14.0,27.0,uk,2023,9,19,15
+693,697,caught torrential rainstorm without umbrella todays weather bad luck,bad,20230920 123000,rainydayblueshighschool,twitter,badluck highschoolweather,18.0,35.0,usa,2023,9,20,12
+694,698,missing important event due unforeseen circumstances day filled sadness,sad,20230921 164500,missedopportunityhighschool,instagram,missedchances highschoolregret,20.0,39.0,canada,2023,9,21,16
+695,699,dealing unfounded rumors circulating personal life rumors hurtful,hate,20230922 182000,rumorvictimhighschool,facebook,rumormills highschooldrama,23.0,46.0,uk,2023,9,22,18
+696,700,got flat tire way important meeting talk series bad events,bad,20230923 141500,flattirewoeshighschool,twitter,badluckday highschoolstruggles,25.0,50.0,usa,2023,9,23,14
+697,701,feeling sense emptiness close friend moves away farewells always sad,sad,20230924 173000,friendmovingawayhighschool,instagram,sayinggoodbye highschoolemotions,21.0,42.0,canada,2023,9,24,17
+698,702,facing rejection dream college disheartened determined explore paths,sad,20230925 204500,collegerejectionhighschool,facebook,collegedreams highschooljourney,19.0,37.0,uk,2023,9,25,20
+699,703,encountering online toxicity gaming session hateful comments ruin fun,hate,20230926 141500,gamingtoxicityhighschool,twitter,onlinegaming highschoolgamer,16.0,32.0,usa,2023,9,26,14
+700,704,bad hair day feeling selfconscious bad hair days affect confidence,bad,20230927 173000,badhairdayblueshighschool,instagram,badhairday highschoolconfidence,18.0,36.0,canada,2023,9,27,17
+701,705,feeling sense despair major project failure hard work didnt pay time,sad,20230928 220000,projectfailuredespairhighschool,facebook,projectstruggles highschoolhardships,21.0,41.0,uk,2023,9,28,22
+702,706,experiencing hate comments expressing personal opinions online negativity prevails,hate,20230929 154500,opinionshatehighschool,twitter,onlineopinions highschoolcriticism,24.0,48.0,usa,2023,9,29,15
+703,707,string bad luck constant technology malfunctions tech troubles galore,bad,20230930 182000,techmalfunctionwoeshighschool,instagram,techissues highschooltech,22.0,43.0,canada,2023,9,30,18
+704,708,missing longanticipated event due unexpected circumstances day filled sadness,sad,20231001 141500,missedeventblueshighschool,facebook,missedmoments highschoolregret,20.0,39.0,uk,2023,10,1,14
+705,709,trying new study technique upcoming exams exploring different learning strategies,neutral,20231002 164500,studytechniqueexperimenthighschool,instagram,studystrategies highschoolexams,23.0,42.0,usa,2023,10,2,16
+706,710,organizing community cleanup event cleaner neighborhood promoting environmental awareness,neutral,20231003 123000,communitycleanuphighschool,twitter,environmentalefforts highschoolcommunity,26.0,50.0,canada,2023,10,3,12
+707,711,sharing favorite book recommendations classmates building mini book club,neutral,20231004 182000,bookrecommendationshighschool,facebook,bookclub highschoolreads,19.0,38.0,uk,2023,10,4,18
+708,712,experimenting new recipe school bake sale baking adventures kitchen,neutral,20231005 141500,bakesalerecipeexperimenthighschool,instagram,bakingadventures highschoolbakes,21.0,43.0,usa,2023,10,5,14
+709,713,collaborating school project peers teamwork makes dream work,neutral,20231006 173000,schoolprojectcollaborationhighschool,twitter,teamwork highschoolprojects,18.0,36.0,canada,2023,10,6,17
+710,714,attending school club meeting explore new interests dabbling extracurricular activities,neutral,20231007 204500,extracurricularexplorationhighschool,instagram,schoolclubs highschoolinterests,22.0,45.0,uk,2023,10,7,20
+711,715,exploring new parttime job opportunity gaining work experience career development progress,neutral,20231008 151500,parttimejobexplorationhighschool,facebook,careerdevelopment highschooljobs,24.0,48.0,usa,2023,10,8,15
+712,716,attending school assembly stay informed upcoming events announcements staying connected school activities,neutral,20231009 220000,schoolassemblyparticipationhighschool,twitter,schoolevents highschoolconnectivity,20.0,40.0,canada,2023,10,9,22
+713,717,exploring new hobby photography free time capturing moments lens,neutral,20231010 141500,photographyhobbyhighschool,instagram,photographyjourney highschoolhobbies,25.0,49.0,uk,2023,10,10,14
+714,718,participating science fair showcase unique experiment sharing knowledge peers,neutral,20231011 164500,sciencefairparticipationhighschool,facebook,sciencefair highschoolscience,19.0,37.0,usa,2023,10,11,16
+715,719,attending workshop time management enhance organizational skills striving efficiency,neutral,20231012 182000,timemanagementworkshophighschool,twitter,efficiencygoals highschoolskills,23.0,44.0,canada,2023,10,12,18
+716,720,volunteering local charity event give back community contributing social causes,neutral,20231013 123000,charityeventvolunteerhighschool,instagram,communityservice highschoolvolunteer,20.0,39.0,uk,2023,10,13,12
+717,721,collaborating group project promote teamwork shared responsibilities group effort action,neutral,20231014 173000,groupprojectcollaborationhighschool,facebook,teamspirit highschoolprojects,18.0,35.0,usa,2023,10,14,17
+718,722,participating debate club enhance critical thinking communication skills intellectual engagement progress,neutral,20231015 204500,debateclubparticipationhighschool,twitter,debateskills highschoolintellect,22.0,43.0,canada,2023,10,15,20
+719,723,celebrating friends birthday surprise party joyful moments laughter around,happy,20231016 154500,birthdaysurprisehighschool,instagram,surpriseparty highschoolcelebration,27.0,52.0,uk,2023,10,16,15
+720,724,successfully completing challenging coding project excitement overcoming coding hurdles,happy,20231017 123000,codingsuccesshighschool,twitter,codingtriumph highschooltech,24.0,48.0,usa,2023,10,17,12
+721,725,attending school talent show support classmates applauding diverse talents display,happy,20231018 164500,talentshowsupporthighschool,facebook,talentshow highschoolentertainment,19.0,38.0,canada,2023,10,18,16
+722,726,exploring new hiking trail friends weekend nature laughter good vibes,happy,20231019 182000,weekendhikehighschool,instagram,natureadventures highschoolfriends,21.0,42.0,uk,2023,10,19,18
+723,727,winning friendly sports competition rival schools victory celebrations full swing,happy,20231020 141500,sportsvictoryhighschool,twitter,sportstriumph highschoolathletics,26.0,50.0,usa,2023,10,20,14
+724,728,receiving heartfelt letter pen pal another country connecting across globe,happy,20231021 173000,penpalconnectionhighschool,facebook,globalfriendship highschoolcorrespondence,23.0,45.0,canada,2023,10,21,17
+725,729,creating beautiful mural fellow art enthusiasts power collaboration creativity,happy,20231022 204500,muralcreationhighschool,instagram,artcollaboration highschoolcreativity,22.0,43.0,uk,2023,10,22,20
+726,730,participating schoolwide art exhibition witnessing creativity spreading positive vibes,happy,20151110 164500,artexhibitionjoyhighschool,instagram,artisticexpression highschoolcreativity,23.0,44.0,usa,2015,11,10,16
+727,731,achieving personal best track field competition thrill victory selfimprovement,happy,20160914 123000,trackfieldsuccesshighschool,twitter,athleticachievement highschoolsports,26.0,51.0,canada,2016,9,14,12
+728,732,collaborating science project received recognition regional fair science triumphs smiles,happy,20170818 182000,scienceprojectsuccesshighschool,facebook,sciencefairwinner highschoolscience,20.0,39.0,uk,2017,8,18,18
+729,733,attending surprise birthday party organized friends surrounded love laughter good company,happy,20180622 141500,birthdaypartyjoyhighschool,instagram,surprisecelebration highschoolfriendship,25.0,48.0,usa,2018,6,22,14
+730,734,successfully fundraising school charity initiative joy giving back community,happy,20190405 173000,charityfundraisingtriumphhighschool,twitter,communitygiving highschoolphilanthropy,22.0,42.0,canada,2019,4,5,17
+731,735,participating multicultural festival celebrating diversity music dance delicious food,happy,20200229 204500,multiculturalfestivaljoyhighschool,facebook,culturalcelebration highschoolunity,21.0,43.0,uk,2020,2,29,20
+732,736,organizing virtual talent show challenging times bringing smiles classmates faces,happy,20201115 151500,virtualtalentshowsuccesshighschool,instagram,virtualentertainment highschoolpositivity,24.0,47.0,usa,2020,11,15,15
