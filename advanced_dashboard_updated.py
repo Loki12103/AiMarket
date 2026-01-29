@@ -6,6 +6,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from google import genai
 from google.genai import types
+from groq import Groq
 import os
 from dotenv import load_dotenv
 
@@ -80,8 +81,14 @@ vector_db = load_vector_db()
 def load_gemini_client():
     return genai.Client(api_key=os.getenv("Gemini_Api_key"))
 
+# Load Groq client
+@st.cache_resource
+def load_groq_client():
+    return Groq(api_key=os.getenv("GROQ_API_KEY"))
 
-client = load_gemini_client()
+
+gemini_client = load_gemini_client()
+groq_client = load_groq_client()
 
 
 # Create two-column layout
@@ -331,7 +338,7 @@ with right_sidebar:
             results = vector_db.similarity_search(user_query, k=10)
             retrieved_docs = [r.page_content for r in results]
             
-            # Create prompt for Gemini
+            # Create prompt for Gemini/Groq
             prompt = f"""
 You are a market intelligence analyst.
 
@@ -349,15 +356,40 @@ Question:
 Answer:
 """
             
-            # Generate response using Gemini
-            response = client.models.generate_content(
-                model="gemini-2.5-flash",
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    thinking_config=types.ThinkingConfig(thinking_budget=0),
-                    temperature=0.2
-                ),
-            )
+            # Try Gemini first, fallback to Groq if it fails
+            try:
+                # Generate response using Gemini
+                response = gemini_client.models.generate_content(
+                    model="gemini-2.5-flash",
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        thinking_config=types.ThinkingConfig(thinking_budget=0),
+                        temperature=0.2
+                    ),
+                )
+                response_text = response.text
+                st.info("🤖 Powered by Gemini")
+                
+            except Exception as gemini_error:
+                st.warning(f"⚠️ Gemini unavailable, switching to Groq... ({str(gemini_error)[:50]})")
+                try:
+                    # Fallback to Groq
+                    groq_response = groq_client.chat.completions.create(
+                        model="llama-3.3-70b-versatile",
+                        messages=[
+                            {"role": "system", "content": "You are a market intelligence analyst. Use only the provided context to answer questions."},
+                            {"role": "user", "content": prompt}
+                        ],
+                        temperature=0.2,
+                        max_tokens=1024
+                    )
+                    response_text = groq_response.choices[0].message.content
+                    st.info("🤖 Powered by Groq (Llama 3.3)")
+                    
+                except Exception as groq_error:
+                    st.error(f"❌ Both Gemini and Groq failed: {str(groq_error)}")
+                    response_text = None
         
-        st.success("Insight Generated")
-        st.write(response.text)
+        if response_text:
+            st.success("Insight Generated")
+            st.write(response_text)
